@@ -1,16 +1,17 @@
 # LeetCode 2nd turn
-### last update: Fri Jun 17 12:54:27 PDT 2022
+### last update: Fri Jun 17 16:10:28 PDT 2022
 ## summary
 | level | counts |
 |-|-|
-| easy |4 |
+| easy |5 |
 | medium |0 |
 | hard |0 |
-| total | 4 |
+| total | 5 |
 
 ## questions
 | problem | level| last modified |
 |-|-|-|
+| [ 88. Merge Sorted Array (Arrays 101) ](./88.merge-sortedarray/) | easy | 2022-06-17 16:09 | 
 | [ 1089. Duplicate Zeros (Arrays 101) ](./1089.duplicate-zeros/) | easy | 2022-06-17 12:53 | 
 | [ 977. Squares of a Sorted Array (Arrays 101) ](./977.squares-of-a-sorted-array/) | easy | 2022-06-17 12:23 | 
 | [ 1295. Find Numbers with Even Number of Digits (Arrays 101) ](./1295.find-numbers-with-even-number-of-digits/) | easy | 2022-06-17 10:29 | 
