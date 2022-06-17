@@ -1,3 +1,8 @@
+# sort approach
+#
+#   time complexity: O(N log N)
+#   space complexity: O(1)
+#
 class Solution:
     def sortedSquares(self, nums: List[int]) -> List[int]:
 
