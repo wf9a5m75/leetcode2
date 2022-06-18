@@ -1,16 +1,17 @@
 # LeetCode 2nd turn
-### last update: Sat Jun 18 15:10:27 PDT 2022
+### last update: Sat Jun 18 15:30:19 PDT 2022
 ## summary
 | level | counts |
 |-|-|
 | easy |8 |
-| medium |1 |
+| medium |2 |
 | hard |0 |
-| total | 9 |
+| total | 10 |
 
 ## questions
 | problem | level| last modified |
 |-|-|-|
+| [ 82. Remove Duplicates from Sorted List II ](./82.remove-duplicates-from-sorted-list-ii/) | medium | 2022-06-18 15:29 | 
 | [ 83. Remove Duplicates from Sorted List ](./83.remove-duplicates-from-sorted-list/) | easy | 2022-06-18 15:10 | 
 | [ 80. Remove Duplicates from Sorted Array ](./80.remove-duplicates-from-sorted-array-ii/) | medium | 2022-06-18 14:39 | 
 | [ 26. Remove Duplicates from Sorted Array (Arrays 101) ](./26.remove-duplicates-from-sorted-array/) | easy | 2022-06-18 14:24 | 
