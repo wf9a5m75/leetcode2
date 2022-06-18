@@ -1,3 +1,7 @@
+#
+# Two pointer approach
+#  time complexity : O(N)
+#  space complexity: O(1)
 class Solution:
     def duplicateZeros(self, arr: List[int]) -> None:
         """
