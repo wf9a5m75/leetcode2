@@ -1,16 +1,17 @@
 # LeetCode 2nd turn
-### last update: Sun Jun 19 08:48:26 PDT 2022
+### last update: Sun Jun 19 09:42:48 PDT 2022
 ## summary
 | level | counts |
 |-|-|
-| easy |13 |
+| easy |14 |
 | medium |2 |
 | hard |0 |
-| total | 15 |
+| total | 16 |
 
 ## questions
 | problem | level| last modified |
 |-|-|-|
+| [ 922. Sort Array By Parity II ](./922.sort-array-by-parity-ii/) | easy | 2022-06-19 09:40 | 
 | [ 905. Sort-array-by-parity (Arrays 101) ](./905.sort-array-by-parity/) | easy | 2022-06-19 08:41 | 
 | [ 283. Move Zeroes (Arrays 101) ](./283.move-zeros/) | easy | 2022-06-18 23:05 | 
 | [ 941.Valid Mountain Array (Arrays 101) ](./941.valid-mountain-array/) | easy | 2022-06-18 22:55 | 
