@@ -1,16 +1,17 @@
 # LeetCode 2nd turn
-### last update: Sat Jun 18 23:06:19 PDT 2022
+### last update: Sun Jun 19 08:48:26 PDT 2022
 ## summary
 | level | counts |
 |-|-|
-| easy |12 |
+| easy |13 |
 | medium |2 |
 | hard |0 |
-| total | 14 |
+| total | 15 |
 
 ## questions
 | problem | level| last modified |
 |-|-|-|
+| [ 905. Sort-array-by-parity (Arrays 101) ](./905.sort-array-by-parity/) | easy | 2022-06-19 08:41 | 
 | [ 283. Move Zeroes (Arrays 101) ](./283.move-zeros/) | easy | 2022-06-18 23:05 | 
 | [ 941.Valid Mountain Array (Arrays 101) ](./941.valid-mountain-array/) | easy | 2022-06-18 22:55 | 
 | [ 1346. Check If N and Its Double Exist (Arrays 101) ](./1346.check-if-n-and-its-double-exist/) | easy | 2022-06-18 22:55 | 
