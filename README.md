@@ -1,17 +1,18 @@
 # LeetCode 2nd turn
-### last update: Sat Jun 18 22:14:17 PDT 2022
+### last update: Sat Jun 18 22:54:25 PDT 2022
 ## summary
 | level | counts |
 |-|-|
-| easy |10 |
+| easy |11 |
 | medium |2 |
 | hard |0 |
-| total | 12 |
+| total | 13 |
 
 ## questions
 | problem | level| last modified |
 |-|-|-|
-| [ 941.Valid Mountain Array ](./941.valid-mountain-array/) | easy | 2022-06-18 22:12 | 
+| [ 941.Valid Mountain Array (Array101) ](./941.valid-mountain-array/) | easy | 2022-06-18 22:54 | 
+| [ 1299. Replace Elements with Greatest Element on Right Side (Array101) ](./1299.replace-elements-with-greatest-element-on-right-side/) | easy | 2022-06-18 22:54 | 
 | [ 1346. Check If N and Its Double Exist ](./1346.check-if-n-and-its-double-exist/) | easy | 2022-06-18 17:10 | 
 | [ 82. Remove Duplicates from Sorted List II ](./82.remove-duplicates-from-sorted-list-ii/) | medium | 2022-06-18 15:29 | 
 | [ 83. Remove Duplicates from Sorted List ](./83.remove-duplicates-from-sorted-list/) | easy | 2022-06-18 15:10 | 
