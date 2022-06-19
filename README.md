@@ -1,16 +1,17 @@
 # LeetCode 2nd turn
-### last update: Sat Jun 18 15:30:19 PDT 2022
+### last update: Sat Jun 18 17:16:08 PDT 2022
 ## summary
 | level | counts |
 |-|-|
-| easy |8 |
+| easy |9 |
 | medium |2 |
 | hard |0 |
-| total | 10 |
+| total | 11 |
 
 ## questions
 | problem | level| last modified |
 |-|-|-|
+| [ 1346. Check If N and Its Double Exist ](./1346.check-if-n-and-its-double-exist/) | easy | 2022-06-18 17:10 | 
 | [ 82. Remove Duplicates from Sorted List II ](./82.remove-duplicates-from-sorted-list-ii/) | medium | 2022-06-18 15:29 | 
 | [ 83. Remove Duplicates from Sorted List ](./83.remove-duplicates-from-sorted-list/) | easy | 2022-06-18 15:10 | 
 | [ 80. Remove Duplicates from Sorted Array ](./80.remove-duplicates-from-sorted-array-ii/) | medium | 2022-06-18 14:39 | 
