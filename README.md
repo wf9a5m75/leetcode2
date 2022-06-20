@@ -1,16 +1,17 @@
 # LeetCode 2nd turn
-### last update: Mon Jun 20 08:32:10 PDT 2022
+### last update: Mon Jun 20 08:47:37 PDT 2022
 ## summary
 | level | counts |
 |-|-|
-| easy |18 |
+| easy |19 |
 | medium |2 |
 | hard |0 |
-| total | 20 |
+| total | 21 |
 
 ## questions
 | problem | level| last modified |
 |-|-|-|
+| [ 24. Swap Nodes in Pairs (Recursion I) ](./24.swap-nodes-in-pairs/) | easy | 2022-06-20 08:47 | 
 | [ 344. Reverse String (Recursion I) ](./344.reverse-string/) | easy | 2022-06-20 08:32 | 
 | [ 448. Find All Numbers Disappeared in an Array (Arrays 101) ](./448.find-all-numbers-disappeared-in-an-array/) | easy | 2022-06-20 06:12 | 
 | [ 414. Third Maximum Number (Arrays 101) ](./414.third-maximum-number/) | easy | 2022-06-19 14:36 | 
