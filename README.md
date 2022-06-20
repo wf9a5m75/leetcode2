@@ -1,16 +1,17 @@
 # LeetCode 2nd turn
-### last update: Mon Jun 20 13:51:24 PDT 2022
+### last update: Mon Jun 20 13:58:35 PDT 2022
 ## summary
 | level | counts |
 |-|-|
 | easy |22 |
-| medium |3 |
+| medium |4 |
 | hard |0 |
-| total | 25 |
+| total | 26 |
 
 ## questions
 | problem | level| last modified |
 |-|-|-|
+| [ 167. Two Sum II - Input Array Is Sorted ](./167.two-sum-ii-input-array-is-sorted/) | medium | 2022-06-20 13:58 | 
 | [ 1. Two Sum ](./1.two-sum/) | easy | 2022-06-20 13:51 | 
 | [ 700. Search in a Binary Search Tree (Recursion I) ](./700.search-in-a-binary-search-tree/) | easy | 2022-06-20 11:48 | 
 | [ 92. Reverse Linked List ](./92.reverse-linked-list-ii/) | medium | 2022-06-20 10:43 | 
