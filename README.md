@@ -1,16 +1,17 @@
 # LeetCode 2nd turn
-### last update: Mon Jun 20 11:49:55 PDT 2022
+### last update: Mon Jun 20 13:51:24 PDT 2022
 ## summary
 | level | counts |
 |-|-|
-| easy |21 |
+| easy |22 |
 | medium |3 |
 | hard |0 |
-| total | 24 |
+| total | 25 |
 
 ## questions
 | problem | level| last modified |
 |-|-|-|
+| [ 1. Two Sum ](./1.two-sum/) | easy | 2022-06-20 13:51 | 
 | [ 700. Search in a Binary Search Tree (Recursion I) ](./700.search-in-a-binary-search-tree/) | easy | 2022-06-20 11:48 | 
 | [ 92. Reverse Linked List ](./92.reverse-linked-list-ii/) | medium | 2022-06-20 10:43 | 
 | [ 206. Reverse Linked List (Recursion I) ](./206.reverse-linked-list/) | easy | 2022-06-20 08:55 | 
