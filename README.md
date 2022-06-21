@@ -1,16 +1,17 @@
 # LeetCode 2nd turn
-### last update: Tue Jun 21 14:25:17 PDT 2022
+### last update: Tue Jun 21 14:36:34 PDT 2022
 ## summary
 | level | counts |
 |-|-|
-| easy |28 |
+| easy |29 |
 | medium |4 |
 | hard |0 |
-| total | 32 |
+| total | 33 |
 
 ## questions
 | problem | level| last modified |
 |-|-|-|
+| [ 111. Minimum Depth of Binary Tree ](./111.minimum-depth-of-binary-tree/) | easy | 2022-06-21 14:36 | 
 | [ 104. Maximum Depth of Binary Tree (Recursion I) ](./104.maximum-depth-of-binary-tree/) | easy | 2022-06-21 14:24 | 
 | [ 746. Min Cost Climbing Stairs ](./746.min-cost-climbing-stairs/) | easy | 2022-06-21 09:19 | 
 | [ 70. Climbing Stairs (Recursion I) ](./70.climbing-stairs/) | easy | 2022-06-21 08:07 | 
