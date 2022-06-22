@@ -1,16 +1,17 @@
 # LeetCode 2nd turn
-### last update: Tue Jun 21 16:08:48 PDT 2022
+### last update: Tue Jun 21 21:28:13 PDT 2022
 ## summary
 | level | counts |
 |-|-|
-| easy |29 |
+| easy |30 |
 | medium |5 |
 | hard |0 |
-| total | 34 |
+| total | 35 |
 
 ## questions
 | problem | level| last modified |
 |-|-|-|
+| [ 21. Merge Two Sorted Lists (Recursion I) ](./21.merge-two-sorted-lists/) | easy | 2022-06-21 21:27 | 
 | [ 50. Pow(x, n) (Recursion I) ](./50.powx-n/) | medium | 2022-06-21 15:19 | 
 | [ 111. Minimum Depth of Binary Tree ](./111.minimum-depth-of-binary-tree/) | easy | 2022-06-21 14:36 | 
 | [ 104. Maximum Depth of Binary Tree (Recursion I) ](./104.maximum-depth-of-binary-tree/) | easy | 2022-06-21 14:24 | 
