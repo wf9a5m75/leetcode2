@@ -1,16 +1,18 @@
 # LeetCode 2nd turn
-### last update: Wed Jun 22 05:53:52 PDT 2022
+### last update: Wed Jun 22 11:24:18 PDT 2022
 ## summary
 | level | counts |
 |-|-|
-| easy |30 |
-| medium |6 |
+| easy |31 |
+| medium |7 |
 | hard |0 |
-| total | 36 |
+| total | 38 |
 
 ## questions
 | problem | level| last modified |
 |-|-|-|
+| [ 217. Contains Duplicate (Data Structure I) ](./217.contains-duplicate/) | easy | 2022-06-22 11:24 | 
+| [ 95. Unique Binary Search Trees II (Recursion I) ](./95.unique-binary-search-trees-ii/) | medium | 2022-06-22 11:13 | 
 | [ 779. K-th Symbol in Grammar (Recursion I) ](./779.k-th-symbol-in-grammar/) | medium | 2022-06-22 05:29 | 
 | [ 21. Merge Two Sorted Lists (Recursion I) ](./21.merge-two-sorted-lists/) | easy | 2022-06-21 21:27 | 
 | [ 50. Pow(x, n) (Recursion I) ](./50.powx-n/) | medium | 2022-06-21 15:19 | 
