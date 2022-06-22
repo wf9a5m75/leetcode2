@@ -1,16 +1,17 @@
 # LeetCode 2nd turn
-### last update: Tue Jun 21 21:28:13 PDT 2022
+### last update: Wed Jun 22 05:53:52 PDT 2022
 ## summary
 | level | counts |
 |-|-|
 | easy |30 |
-| medium |5 |
+| medium |6 |
 | hard |0 |
-| total | 35 |
+| total | 36 |
 
 ## questions
 | problem | level| last modified |
 |-|-|-|
+| [ 779. K-th Symbol in Grammar (Recursion I) ](./779.k-th-symbol-in-grammar/) | medium | 2022-06-22 05:29 | 
 | [ 21. Merge Two Sorted Lists (Recursion I) ](./21.merge-two-sorted-lists/) | easy | 2022-06-21 21:27 | 
 | [ 50. Pow(x, n) (Recursion I) ](./50.powx-n/) | medium | 2022-06-21 15:19 | 
 | [ 111. Minimum Depth of Binary Tree ](./111.minimum-depth-of-binary-tree/) | easy | 2022-06-21 14:36 | 
