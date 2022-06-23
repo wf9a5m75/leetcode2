@@ -1,16 +1,22 @@
 # LeetCode 2nd turn
-### last update: Wed Jun 22 11:24:18 PDT 2022
+### last update: Wed Jun 22 17:29:16 PDT 2022
 ## summary
 | level | counts |
 |-|-|
-| easy |31 |
+| easy |36 |
 | medium |7 |
 | hard |0 |
-| total | 38 |
+| total | 43 |
 
 ## questions
 | problem | level| last modified |
 |-|-|-|
+| [ 121. Best Time to Buy and Sell Stock (Data Structure I) ](./121.best-time-to-buy-and-sell-stock/) | easy | 2022-06-22 17:20 | 
+| [ 350. Intersection of Two Arrays II (Data Structure I) ](./350.intersection-of-two-arrays-ii/) | easy | 2022-06-22 15:48 | 
+| [ 1. Two Sum (Data Structure I) ](./1.two-sum/) | easy | 2022-06-22 12:30 | 
+| [ 53. Maximum Subarray (Data Structure I) ](./53.maximum-subarray/) | easy | 2022-06-22 12:26 | 
+| [ 202. Happy Number ](./202.happy-number/) | easy | 2022-06-22 11:57 | 
+| [ 219. Contains Duplicate II ](./219.contains-duplicate-ii/) | easy | 2022-06-22 11:39 | 
 | [ 217. Contains Duplicate (Data Structure I) ](./217.contains-duplicate/) | easy | 2022-06-22 11:24 | 
 | [ 95. Unique Binary Search Trees II (Recursion I) ](./95.unique-binary-search-trees-ii/) | medium | 2022-06-22 11:13 | 
 | [ 779. K-th Symbol in Grammar (Recursion I) ](./779.k-th-symbol-in-grammar/) | medium | 2022-06-22 05:29 | 
@@ -24,7 +30,6 @@
 | [ 119. Pascal's Triangle II (Recursion I) ](./119.pascals-triangle-ii/) | easy | 2022-06-21 05:13 | 
 | [ 653. Two Sum IV - Input is a BST ](./653.two-sum-iv-input-is-a-bst/) | easy | 2022-06-21 05:10 | 
 | [ 167. Two Sum II - Input Array Is Sorted ](./167.two-sum-ii-input-array-is-sorted/) | medium | 2022-06-20 13:58 | 
-| [ 1. Two Sum ](./1.two-sum/) | easy | 2022-06-20 13:51 | 
 | [ 700. Search in a Binary Search Tree (Recursion I) ](./700.search-in-a-binary-search-tree/) | easy | 2022-06-20 11:48 | 
 | [ 92. Reverse Linked List ](./92.reverse-linked-list-ii/) | medium | 2022-06-20 10:43 | 
 | [ 206. Reverse Linked List (Recursion I) ](./206.reverse-linked-list/) | easy | 2022-06-20 08:55 | 

@@ -1,0 +1,4 @@
+# 121. Best Time to Buy and Sell Stock (Data Structure I)
+## level: Easy
+
+https://leetcode.com/problems/best-time-to-buy-and-sell-stock/
