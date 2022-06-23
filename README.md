@@ -1,16 +1,17 @@
 # LeetCode 2nd turn
-### last update: Wed Jun 22 17:29:16 PDT 2022
+### last update: Wed Jun 22 19:51:34 PDT 2022
 ## summary
 | level | counts |
 |-|-|
 | easy |36 |
-| medium |7 |
+| medium |8 |
 | hard |0 |
-| total | 43 |
+| total | 44 |
 
 ## questions
 | problem | level| last modified |
 |-|-|-|
+| [ 122. Best Time to Buy and Sell Stock II ](./122.best-time-to-buy-and-sell-stock-ii/) | medium | 2022-06-22 19:48 | 
 | [ 121. Best Time to Buy and Sell Stock (Data Structure I) ](./121.best-time-to-buy-and-sell-stock/) | easy | 2022-06-22 17:20 | 
 | [ 350. Intersection of Two Arrays II (Data Structure I) ](./350.intersection-of-two-arrays-ii/) | easy | 2022-06-22 15:48 | 
 | [ 1. Two Sum (Data Structure I) ](./1.two-sum/) | easy | 2022-06-22 12:30 | 
