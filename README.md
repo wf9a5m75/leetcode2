@@ -1,16 +1,19 @@
 # LeetCode 2nd turn
-### last update: Thu Jun 23 11:18:07 PDT 2022
+### last update: Thu Jun 23 14:13:53 PDT 2022
 ## summary
 | level | counts |
 |-|-|
-| easy |37 |
-| medium |8 |
+| easy |39 |
+| medium |9 |
 | hard |1 |
-| total | 46 |
+| total | 49 |
 
 ## questions
 | problem | level| last modified |
 |-|-|-|
+| [ 304. Range Sum Query 2D - Immutable ](./304.range-sum-query-2d-immutable/) | medium | 2022-06-23 12:13 | 
+| [ 303. Range Sum Query - Immutable ](./303.range-sum-query-immutable/) | easy | 2022-06-23 11:56 | 
+| [ 2022. Convert 1D Array Into 2D Array ](./2022.convert-1d-array-into-2d-array/) | easy | 2022-06-23 11:30 | 
 | [ 566. Reshape the Matrix (Data Structure I) ](./566.reshape-the-matrix/) | easy | 2022-06-23 11:17 | 
 | [ (TODO) 123. Best Time to Buy and Sell Stock III ](./123.best-time-to-buy-and-sell-stock-iii/) | hard | 2022-06-23 10:12 | 
 | [ 122. Best Time to Buy and Sell Stock II ](./122.best-time-to-buy-and-sell-stock-ii/) | medium | 2022-06-22 19:48 | 
