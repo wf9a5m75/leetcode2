@@ -1,16 +1,18 @@
 # LeetCode 2nd turn
-### last update: Thu Jun 23 14:13:53 PDT 2022
+### last update: Sat Jun 25 21:16:17 PDT 2022
 ## summary
 | level | counts |
 |-|-|
-| easy |39 |
+| easy |41 |
 | medium |9 |
 | hard |1 |
-| total | 49 |
+| total | 51 |
 
 ## questions
 | problem | level| last modified |
 |-|-|-|
+| [ 1672. Richest Customer Wealth ](./1672.richest-customer-wealth/) | easy | 2022-06-25 21:15 | 
+| [ 118. Pascal's Triangle (Data Structure I) ](./118.pascals-triangle/) | easy | 2022-06-23 14:24 | 
 | [ 304. Range Sum Query 2D - Immutable ](./304.range-sum-query-2d-immutable/) | medium | 2022-06-23 12:13 | 
 | [ 303. Range Sum Query - Immutable ](./303.range-sum-query-immutable/) | easy | 2022-06-23 11:56 | 
 | [ 2022. Convert 1D Array Into 2D Array ](./2022.convert-1d-array-into-2d-array/) | easy | 2022-06-23 11:30 | 
