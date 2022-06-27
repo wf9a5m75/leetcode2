@@ -1,16 +1,24 @@
 # LeetCode 2nd turn
-### last update: Sat Jun 25 21:16:17 PDT 2022
+### last update: Mon Jun 27 09:44:31 PDT 2022
 ## summary
 | level | counts |
 |-|-|
-| easy |41 |
+| easy |49 |
 | medium |9 |
 | hard |1 |
-| total | 51 |
+| total | 59 |
 
 ## questions
 | problem | level| last modified |
 |-|-|-|
+| [ 674. Longest Continuous Increasing Subsequence ](./674.longest-continuous-increasing-subsequence/) | easy | 2022-06-27 09:43 | 
+| [ 733. Flood Fill ](./733.flood-fill/) | easy | 2022-06-26 18:38 | 
+| [ 766. Toeplitz Matrix ](./766.toeplitz-matrix/) | easy | 2022-06-26 18:13 | 
+| [ 463. Island Perimeter ](./463.island-perimeter/) | easy | 2022-06-26 18:01 | 
+| [ 1380. Lucky Numbers in a Matrix ](./1380.lucky-numbers-in-a-matrix/) | easy | 2022-06-26 15:53 | 
+| [ 1351. Count Negative Numbers in a Sorted Matrix ](./1351.count-negative-numbers-in-a-sorted-matrix/) | easy | 2022-06-25 21:59 | 
+| [ 1572. Matrix Diagonal Sum ](./1572.matrix-diagonal-sum/) | easy | 2022-06-25 21:42 | 
+| [ 832. Flipping an Image ](./832.flipping-an-image/) | easy | 2022-06-25 21:23 | 
 | [ 1672. Richest Customer Wealth ](./1672.richest-customer-wealth/) | easy | 2022-06-25 21:15 | 
 | [ 118. Pascal's Triangle (Data Structure I) ](./118.pascals-triangle/) | easy | 2022-06-23 14:24 | 
 | [ 304. Range Sum Query 2D - Immutable ](./304.range-sum-query-2d-immutable/) | medium | 2022-06-23 12:13 | 
