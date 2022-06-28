@@ -1,16 +1,20 @@
 # LeetCode 2nd turn
-### last update: Mon Jun 27 09:44:31 PDT 2022
+### last update: Mon Jun 27 15:44:59 PDT 2022
 ## summary
 | level | counts |
 |-|-|
-| easy |49 |
-| medium |9 |
+| easy |52 |
+| medium |10 |
 | hard |1 |
-| total | 59 |
+| total | 63 |
 
 ## questions
 | problem | level| last modified |
 |-|-|-|
+| [ 242. Valid Anagram (Data Structure I) ](./242.valid-anagram/) | easy | 2022-06-27 15:44 | 
+| [ 383. Ransom Note (Data Structure I) ](./383.ransom-note/) | easy | 2022-06-27 15:39 | 
+| [ 387. First Unique Character in a String (Data Structure I) ](./387.first-unique-character-in-a-string/) | easy | 2022-06-27 15:36 | 
+| [ 74. Search a 2D Matrix (Data Structure I) ](./74.search-a-2d-matrix/) | medium | 2022-06-27 15:13 | 
 | [ 674. Longest Continuous Increasing Subsequence ](./674.longest-continuous-increasing-subsequence/) | easy | 2022-06-27 09:43 | 
 | [ 733. Flood Fill ](./733.flood-fill/) | easy | 2022-06-26 18:38 | 
 | [ 766. Toeplitz Matrix ](./766.toeplitz-matrix/) | easy | 2022-06-26 18:13 | 
