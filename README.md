@@ -1,17 +1,21 @@
 # LeetCode 2nd turn
-### last update: Tue Jun 28 18:29:38 PDT 2022
+### last update: Wed Jun 29 07:34:35 PDT 2022
 ## summary
 | level | counts |
 |-|-|
-| easy |57 |
-| medium |10 |
+| easy |59 |
+| medium |12 |
 | hard |2 |
-| total | 69 |
+| total | 73 |
 
 ## questions
 | problem | level| last modified |
 |-|-|-|
-| [ 144. Binary Tree Preorder Traversal (Data Structure I) ](./144.binary-tree-preorder-traversal/) | easy | 2022-06-28 18:28 | 
+| [ 107. Binary Tree Level Order Traversal II ](./107.binary-tree-level-order-traversal-ii/) | medium | 2022-06-29 07:12 | 
+| [ 102. Binary Tree Level Order Traversal (Data Structure I) ](./102.binary-tree-level-order-traversal/) | medium | 2022-06-29 07:08 | 
+| [ 145. Binary Tree Postorder Traversal (Data Structure I) ](./145.binary-tree-postorder-traversal/) | easy | 2022-06-29 07:02 | 
+| [ 94. Binary Tree Inorder Traversal (Data Structure I) ](./94.binary-tree-inorder-traversal/) | easy | 2022-06-29 06:52 | 
+| [ 144. Binary Tree Preorder Traversal (Data Structure I) ](./144.binary-tree-preorder-traversal/) | easy | 2022-06-29 06:50 | 
 | [ 232. Implement Queue using Stacks (Data Structure I) ](./232.implement-queue-using-stacks/) | easy | 2022-06-28 15:07 | 
 | [ 20. Valid Parentheses (Data Structure I) ](./20.valid-parentheses/) | easy | 2022-06-28 11:40 | 
 | [ 203. Remove Linked List Elements (Data Structure I) ](./203.remove-linked-list-elements/) | easy | 2022-06-28 10:58 | 
