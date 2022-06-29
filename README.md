@@ -1,16 +1,22 @@
 # LeetCode 2nd turn
-### last update: Mon Jun 27 15:44:59 PDT 2022
+### last update: Tue Jun 28 18:29:38 PDT 2022
 ## summary
 | level | counts |
 |-|-|
-| easy |52 |
+| easy |57 |
 | medium |10 |
-| hard |1 |
-| total | 63 |
+| hard |2 |
+| total | 69 |
 
 ## questions
 | problem | level| last modified |
 |-|-|-|
+| [ 144. Binary Tree Preorder Traversal (Data Structure I) ](./144.binary-tree-preorder-traversal/) | easy | 2022-06-28 18:28 | 
+| [ 232. Implement Queue using Stacks (Data Structure I) ](./232.implement-queue-using-stacks/) | easy | 2022-06-28 15:07 | 
+| [ 20. Valid Parentheses (Data Structure I) ](./20.valid-parentheses/) | easy | 2022-06-28 11:40 | 
+| [ 203. Remove Linked List Elements (Data Structure I) ](./203.remove-linked-list-elements/) | easy | 2022-06-28 10:58 | 
+| [ 21. 23. Merge k Sorted Lists ](./23.merge-k-sorted-lists/) | hard | 2022-06-28 08:15 | 
+| [ 141. Linked List Cycle (Data Structure I) ](./141.linked-list-cycle/) | easy | 2022-06-28 06:07 | 
 | [ 242. Valid Anagram (Data Structure I) ](./242.valid-anagram/) | easy | 2022-06-27 15:44 | 
 | [ 383. Ransom Note (Data Structure I) ](./383.ransom-note/) | easy | 2022-06-27 15:39 | 
 | [ 387. First Unique Character in a String (Data Structure I) ](./387.first-unique-character-in-a-string/) | easy | 2022-06-27 15:36 | 
