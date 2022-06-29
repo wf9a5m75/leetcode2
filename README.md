@@ -1,16 +1,21 @@
 # LeetCode 2nd turn
-### last update: Wed Jun 29 07:34:35 PDT 2022
+### last update: Wed Jun 29 12:18:09 PDT 2022
 ## summary
 | level | counts |
 |-|-|
-| easy |59 |
-| medium |12 |
+| easy |62 |
+| medium |14 |
 | hard |2 |
-| total | 73 |
+| total | 78 |
 
 ## questions
 | problem | level| last modified |
 |-|-|-|
+| [ 98. Validate Binary Search Tree (Data Structure I) ](./98.validate-binary-search-tree/) | medium | 2022-06-29 12:17 | 
+| [ 701. Insert into a Binary Search Tree (Data Structure I) ](./701.insert-into-a-binary-search-tree/) | medium | 2022-06-29 12:07 | 
+| [ 112. Path Sum (Data Structure I) ](./112.path-sum/) | easy | 2022-06-29 11:14 | 
+| [ 226. Invert Binary Tree (Data Structure I) ](./226.invert-binary-tree/) | easy | 2022-06-29 10:47 | 
+| [ 101. Symmetric Tree (Data Structure I) ](./101.symmetric-tree/) | easy | 2022-06-29 10:39 | 
 | [ 107. Binary Tree Level Order Traversal II ](./107.binary-tree-level-order-traversal-ii/) | medium | 2022-06-29 07:12 | 
 | [ 102. Binary Tree Level Order Traversal (Data Structure I) ](./102.binary-tree-level-order-traversal/) | medium | 2022-06-29 07:08 | 
 | [ 145. Binary Tree Postorder Traversal (Data Structure I) ](./145.binary-tree-postorder-traversal/) | easy | 2022-06-29 07:02 | 
