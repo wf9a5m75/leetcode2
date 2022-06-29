@@ -1,5 +1,5 @@
 # 102. Binary Tree Level Order Traversal (Data Structure I)
-## level: Easy
+## level: Medium
 
 https://leetcode.com/problems/binary-tree-level-order-traversal/
 
