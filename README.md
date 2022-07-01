@@ -1,16 +1,27 @@
 # LeetCode 2nd turn
-### last update: Wed Jun 29 19:14:57 PDT 2022
+### last update: Fri Jul  1 15:57:38 PDT 2022
 ## summary
 | level | counts |
 |-|-|
-| easy |62 |
-| medium |18 |
+| easy |69 |
+| medium |22 |
 | hard |2 |
-| total | 82 |
+| total | 93 |
 
 ## questions
 | problem | level| last modified |
 |-|-|-|
+| [ 704. Binary Search (Algorithm I) ](./704.binary-search/) | easy | 2022-07-01 15:57 | 
+| [ 230. Kth Smallest Element in a BST ](./230.kth-smallest-element-in-a-bst/) | medium | 2022-07-01 15:18 | 
+| [ 557. Reverse Words in a String III (Algorithm I) ](./557.reverse-words-in-a-string-iii/) | easy | 2022-06-30 18:06 | 
+| [ 136. Single Number (Top Interview Questions) ](./136.single-number/) | easy | 2022-06-30 15:28 | 
+| [ 22. Generate Parentheses (Top Interview Questions) ](./22.generate-parentheses/) | medium | 2022-06-30 15:25 | 
+| [ 78. Subsets (Top Interview Questions) ](./78.subsets/) | medium | 2022-06-30 14:49 | 
+| [ 237. Delete Node in a Linked List (Top Interview Questions) ](./237.delete-node-in-a-linked-list/) | easy | 2022-06-30 14:29 | 
+| [ 412. Fizz Buzz (Top Interview Questions) ](./412.fizz-buzz/) | easy | 2022-06-30 14:24 | 
+| [ 46. Permutations (Top Interview Questions) ](./46.permutations/) | medium | 2022-06-30 14:14 | 
+| [ 2269. Find the K-Beauty of a Number ](./2269.find-the-k-beauty-of-a-number/) | easy | 2022-06-30 11:03 | 
+| [ 1876. Substrings of Size Three with Distinct Characters ](./1876.substrings-of-size-three-with-distinct-characters/) | easy | 2022-06-29 22:37 | 
 | [ 445. Add Two Numbers II ](./445.add-two-numbers-ii/) | medium | 2022-06-29 19:14 | 
 | [ 2. Add Two Numbers (Top Interview Questions) ](./2.add-two-numbers/) | medium | 2022-06-29 18:32 | 
 | [ 236. Lowest Common Ancestor of a Binary Tree ](./236.lowest-common-ancestor-of-a-binary-tree/) | medium | 2022-06-29 17:08 | 
