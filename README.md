@@ -1,16 +1,30 @@
 # LeetCode 2nd turn
-### last update: Fri Jul  1 15:57:38 PDT 2022
+### last update: Mon Jul  4 23:12:08 PDT 2022
 ## summary
 | level | counts |
 |-|-|
-| easy |69 |
-| medium |22 |
+| easy |75 |
+| medium |27 |
 | hard |2 |
-| total | 93 |
+| total | 104 |
 
 ## questions
 | problem | level| last modified |
 |-|-|-|
+| [ 1523. Count Odd Numbers in an Interval Range (Programming Skills I) ](./1523.count-odd-numbers-in-an-interval-range/) | easy | 2022-07-04 23:05 | 
+| [ 746. Min Cost Climbing Stairs (Dynamic Programming I) ](./746.min-cost-climbing-stairs/) | easy | 2022-07-04 22:52 | 
+| [ 70. Climbing Stairs (Recursion I) (Dynamic Programming I) ](./70.climbing-stairs/) | easy | 2022-07-04 22:26 | 
+| [ 1137. N-th Tribonacci Number (Dynamic Programming I) ](./1137.n-th-tribonacci-number/) | easy | 2022-07-04 22:19 | 
+| [ 509. Fibonacci Number (Recursion I) (Dynamic Programming I) ](./509.fibonacci-number/) | easy | 2022-07-04 22:14 | 
+| [ 15. 3sum ](./15.3sum/) | medium | 2022-07-04 22:13 | 
+| [ 695. Max Area of Island (Algorithm I) ](./695.max-area-of-island/) | medium | 2022-07-03 18:49 | 
+| [ 567. Permutation in String (Algorithm I) ](./567.permutation-in-string/) | medium | 2022-07-03 17:41 | 
+| [ 19. Remove Nth Node From End of List (Algorithm I) ](./19.remove-nth-node-from-end-of-list/) | medium | 2022-07-03 12:52 | 
+| [ 876. Middle of the Linked List (Algorithm I) ](./876.middle-of-the-linked-list/) | easy | 2022-07-03 11:28 | 
+| [ 189. Rotate Array (Algorithm I) ](./189.rotate-array/) | medium | 2022-07-03 10:22 | 
+| [ 2. Palindrome Number ](./9.palindrome-number/) | easy | 2022-07-03 07:12 | 
+| [ 35. Search Insert Position (Algorithm I) ](./35.search-insert-position/) | easy | 2022-07-02 12:09 | 
+| [ 278. First Bad Version (Algorithm I) ](./278.first-bad-version/) | easy | 2022-07-02 11:48 | 
 | [ 704. Binary Search (Algorithm I) ](./704.binary-search/) | easy | 2022-07-01 15:57 | 
 | [ 230. Kth Smallest Element in a BST ](./230.kth-smallest-element-in-a-bst/) | medium | 2022-07-01 15:18 | 
 | [ 557. Reverse Words in a String III (Algorithm I) ](./557.reverse-words-in-a-string-iii/) | easy | 2022-06-30 18:06 | 
@@ -74,9 +88,6 @@
 | [ 50. Pow(x, n) (Recursion I) ](./50.powx-n/) | medium | 2022-06-21 15:19 | 
 | [ 111. Minimum Depth of Binary Tree ](./111.minimum-depth-of-binary-tree/) | easy | 2022-06-21 14:36 | 
 | [ 104. Maximum Depth of Binary Tree (Recursion I) ](./104.maximum-depth-of-binary-tree/) | easy | 2022-06-21 14:24 | 
-| [ 746. Min Cost Climbing Stairs ](./746.min-cost-climbing-stairs/) | easy | 2022-06-21 09:19 | 
-| [ 70. Climbing Stairs (Recursion I) ](./70.climbing-stairs/) | easy | 2022-06-21 08:07 | 
-| [ 509. Fibonacci Number (Recursion I) ](./509.fibonacci-number/) | easy | 2022-06-21 05:28 | 
 | [ 119. Pascal's Triangle II (Recursion I) ](./119.pascals-triangle-ii/) | easy | 2022-06-21 05:13 | 
 | [ 653. Two Sum IV - Input is a BST ](./653.two-sum-iv-input-is-a-bst/) | easy | 2022-06-21 05:10 | 
 | [ 167. Two Sum II - Input Array Is Sorted ](./167.two-sum-ii-input-array-is-sorted/) | medium | 2022-06-20 13:58 | 
