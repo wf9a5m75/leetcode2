@@ -1,4 +1,4 @@
-# 896. Monotonic Array (Programming Skills II)
+# 28. Implement strStr() (Programming Skills II)
 ## level: Easy
 
 https://leetcode.com/problems/implement-strstr/
