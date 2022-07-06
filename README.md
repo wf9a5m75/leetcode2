@@ -1,16 +1,24 @@
 # LeetCode 2nd turn
-### last update: Mon Jul  4 23:12:08 PDT 2022
+### last update: Tue Jul  5 22:14:42 PDT 2022
 ## summary
 | level | counts |
 |-|-|
-| easy |75 |
+| easy |83 |
 | medium |27 |
 | hard |2 |
-| total | 104 |
+| total | 112 |
 
 ## questions
 | problem | level| last modified |
 |-|-|-|
+| [ 169. Majority Element ](./169.majority-element/) | easy | 2022-07-05 21:57 | 
+| [ 896. Monotonic Array (Programming Skills II) ](./28.implement-strstr/) | easy | 2022-07-05 13:53 | 
+| [ 896. Monotonic Array (Programming Skills II) ](./896.monotonic-array/) | easy | 2022-07-05 10:29 | 
+| [ 1822. Sign of the Product of an Array (Programming Skills I) ](./1822.sign-of-the-product-of-an-array/) | easy | 2022-07-05 10:24 | 
+| [ 1779. Find Nearest Point That Has the Same X or Y Coordinate (Programming Skills I) ](./1779.find-nearest-point-that-has-the-same-x-or-y-coordinate/) | easy | 2022-07-05 10:18 | 
+| [ 976. Largest Perimeter Triangle (Programming Skills I) ](./976.largest-perimeter-triangle/) | easy | 2022-07-05 09:49 | 
+| [ 191. Number of 1 Bits (Programming Skills I) ](./191.number-of-1-bits/) | easy | 2022-07-05 06:24 | 
+| [ 1491. Average Salary Excluding the Minimum and Maximum Salary (Programming Skills I) ](./1491.average-salary-excluding-the-minimum-and-maximum-salary/) | easy | 2022-07-05 05:48 | 
 | [ 1523. Count Odd Numbers in an Interval Range (Programming Skills I) ](./1523.count-odd-numbers-in-an-interval-range/) | easy | 2022-07-04 23:05 | 
 | [ 746. Min Cost Climbing Stairs (Dynamic Programming I) ](./746.min-cost-climbing-stairs/) | easy | 2022-07-04 22:52 | 
 | [ 70. Climbing Stairs (Recursion I) (Dynamic Programming I) ](./70.climbing-stairs/) | easy | 2022-07-04 22:26 | 
