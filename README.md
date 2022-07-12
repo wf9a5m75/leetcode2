@@ -1,16 +1,23 @@
 # LeetCode 2nd turn
-### last update: Mon Jul 11 12:12:56 PDT 2022
+### last update: Tue Jul 12 15:22:16 PDT 2022
 ## summary
 | level | counts |
 |-|-|
-| easy |96 |
-| medium |33 |
+| easy |99 |
+| medium |37 |
 | hard |2 |
-| total | 131 |
+| total | 138 |
 
 ## questions
 | problem | level| last modified |
 |-|-|-|
+| [ 54. Spiral Matrix (Programming Skills II) ](./54.spiral-matrix/) | medium | 2022-07-12 15:19 | 
+| [ 1886. Determine Whether Matrix Can Be Obtained By Rotation (Programming Skills II) ](./1886.determine-whether-matrix-can-be-obtained-by-rotation/) | easy | 2022-07-12 14:52 | 
+| [ 48. Rotate Image (Programming Skills II) ](./48.rotate-image/) | medium | 2022-07-12 11:00 | 
+| [ 58. Length of Last Word (Programming Skills II) ](./58.length-of-last-word/) | easy | 2022-07-12 10:00 | 
+| [ 1667. Fix Names in a Table (SQL I) ](./1667.fix-names-in-a-table/) | easy | 2022-07-11 22:22 | 
+| [ 213. House Robber II (Dynamic Programming I) ](./213.house-robber-ii/) | medium | 2022-07-11 22:08 | 
+| [ 198. House Robber (Dynamic Programming I) ](./198.house-robber/) | medium | 2022-07-11 15:22 | 
 | [ 240. Search a 2D Matrix II (Data Structure II) ](./240.search-a-2d-matrix-ii/) | medium | 2022-07-11 12:12 | 
 | [ 56. Merge Intervals (Data Structure II) ](./56.merge-intervals/) | medium | 2022-07-11 07:31 | 
 | [ 706. Design HashMap (Data Structure II) ](./706.design-hashmap/) | easy | 2022-07-11 07:23 | 
