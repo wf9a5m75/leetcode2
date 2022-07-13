@@ -1,4 +1,4 @@
-# 119. Pascal's Triangle II (Recursion I)
+# 119. Pascal's Triangle II (Recursion I) (Data Structure II)
 ## level: Easy
 
 https://leetcode.com/problems/pascals-triangle-ii/
