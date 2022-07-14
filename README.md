@@ -1,16 +1,17 @@
 # LeetCode 2nd turn
-### last update: Thu Jul 14 14:56:49 PDT 2022
+### last update: Thu Jul 14 16:10:28 PDT 2022
 ## summary
 | level | counts |
 |-|-|
 | easy |102 |
-| medium |43 |
+| medium |44 |
 | hard |2 |
-| total | 147 |
+| total | 148 |
 
 ## questions
 | problem | level| last modified |
 |-|-|-|
+| [ 994. Rotting Oranges (Algorithm I) ](./994.rotting-oranges/) | medium | 2022-07-14 16:08 | 
 | [ 77. Combinations (Algorithm I) ](./77.combinations/) | medium | 2022-07-14 14:56 | 
 | [ 784. Letter Case Permutation (Algorithm I) ](./784.letter-case-permutation/) | medium | 2022-07-14 13:35 | 
 | [ 120. Triangle (Algorithm I) ](./120.triangle/) | medium | 2022-07-14 06:40 | 
