@@ -1,16 +1,26 @@
 # LeetCode 2nd turn
-### last update: Tue Jul 12 15:22:16 PDT 2022
+### last update: Thu Jul 14 14:56:49 PDT 2022
 ## summary
 | level | counts |
 |-|-|
-| easy |99 |
-| medium |37 |
+| easy |102 |
+| medium |43 |
 | hard |2 |
-| total | 138 |
+| total | 147 |
 
 ## questions
 | problem | level| last modified |
 |-|-|-|
+| [ 77. Combinations (Algorithm I) ](./77.combinations/) | medium | 2022-07-14 14:56 | 
+| [ 784. Letter Case Permutation (Algorithm I) ](./784.letter-case-permutation/) | medium | 2022-07-14 13:35 | 
+| [ 120. Triangle (Algorithm I) ](./120.triangle/) | medium | 2022-07-14 06:40 | 
+| [ 231. Power of Two (Algorithm I) ](./231.power-of-two/) | easy | 2022-07-13 22:46 | 
+| [ 190. Reverse Bits (Algorithm I) ](./190.reverse-bits/) | easy | 2022-07-13 22:32 | 
+| [ 2131. Longest Palindrome by Concatenating Two Letter Words ](./2131.longest-palindrome-by-concatenating-two-letter-words/) | medium | 2022-07-13 22:22 | 
+| [ 409. Longest Palindrome (Programming Skills II) ](./409.longest-palindrome/) | easy | 2022-07-13 11:42 | 
+| [ 119. Pascal's Triangle II (Recursion I) (Data Structure II) ](./119.pascals-triangle-ii/) | easy | 2022-07-13 10:35 | 
+| [ 59. Spiral Matrix II (Programming Skills II) ](./59.spiral-matrix-ii/) | medium | 2022-07-12 21:04 | 
+| [ 973. K Closest Points to Origin (Programming Skills II) ](./973.k-closest-points-to-origin/) | medium | 2022-07-12 16:16 | 
 | [ 54. Spiral Matrix (Programming Skills II) ](./54.spiral-matrix/) | medium | 2022-07-12 15:19 | 
 | [ 1886. Determine Whether Matrix Can Be Obtained By Rotation (Programming Skills II) ](./1886.determine-whether-matrix-can-be-obtained-by-rotation/) | easy | 2022-07-12 14:52 | 
 | [ 48. Rotate Image (Programming Skills II) ](./48.rotate-image/) | medium | 2022-07-12 11:00 | 
@@ -122,7 +132,6 @@
 | [ 50. Pow(x, n) (Recursion I) ](./50.powx-n/) | medium | 2022-06-21 15:19 | 
 | [ 111. Minimum Depth of Binary Tree ](./111.minimum-depth-of-binary-tree/) | easy | 2022-06-21 14:36 | 
 | [ 104. Maximum Depth of Binary Tree (Recursion I) ](./104.maximum-depth-of-binary-tree/) | easy | 2022-06-21 14:24 | 
-| [ 119. Pascal's Triangle II (Recursion I) ](./119.pascals-triangle-ii/) | easy | 2022-06-21 05:13 | 
 | [ 653. Two Sum IV - Input is a BST ](./653.two-sum-iv-input-is-a-bst/) | easy | 2022-06-21 05:10 | 
 | [ 167. Two Sum II - Input Array Is Sorted ](./167.two-sum-ii-input-array-is-sorted/) | medium | 2022-06-20 13:58 | 
 | [ 700. Search in a Binary Search Tree (Recursion I) ](./700.search-in-a-binary-search-tree/) | easy | 2022-06-20 11:48 | 
