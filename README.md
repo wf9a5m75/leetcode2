@@ -1,16 +1,18 @@
 # LeetCode 2nd turn
-### last update: Thu Jul 14 16:10:28 PDT 2022
+### last update: Thu Jul 14 21:20:41 PDT 2022
 ## summary
 | level | counts |
 |-|-|
-| easy |102 |
-| medium |44 |
+| easy |103 |
+| medium |45 |
 | hard |2 |
-| total | 148 |
+| total | 150 |
 
 ## questions
 | problem | level| last modified |
 |-|-|-|
+| [ 290. Word Pattern (Data Structure II) ](./290.word-pattern/) | easy | 2022-07-14 20:35 | 
+| [ 1367. Linked List in Binary Tree (Programming Skills II) ](./1367.linked-list-in-binary-tree/) | medium | 2022-07-14 20:01 | 
 | [ 994. Rotting Oranges (Algorithm I) ](./994.rotting-oranges/) | medium | 2022-07-14 16:08 | 
 | [ 77. Combinations (Algorithm I) ](./77.combinations/) | medium | 2022-07-14 14:56 | 
 | [ 784. Letter Case Permutation (Algorithm I) ](./784.letter-case-permutation/) | medium | 2022-07-14 13:35 | 
