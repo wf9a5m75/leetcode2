@@ -1,16 +1,32 @@
 # LeetCode 2nd turn
-### last update: Thu Jul 14 21:20:41 PDT 2022
+### last update: Sat Jul 23 17:47:28 PDT 2022
 ## summary
 | level | counts |
 |-|-|
-| easy |103 |
-| medium |45 |
+| easy |110 |
+| medium |54 |
 | hard |2 |
-| total | 150 |
+| total | 166 |
 
 ## questions
 | problem | level| last modified |
 |-|-|-|
+| [ 61. Rotate List (Programming Skills II) ](./61.rotate-list/) | medium | 2022-07-23 17:46 | 
+| [ 503. Next Greater Element II (Programming Skills II) ](./503.next-greater-element-ii/) | medium | 2022-07-23 17:11 | 
+| [ 496. Next Greater Element I ](./496.next-greater-element-i/) | easy | 2022-07-23 14:47 | 
+| [ 429. N-ary Tree Level Order Traversal (Programming Skills II) ](./429.n-ary-tree-level-order-traversal/) | medium | 2022-07-23 14:18 | 
+| [ 1630. Arithmetic Subarrays (Programming Skills II) ](./1630.arithmetic-subarrays/) | medium | 2022-07-23 14:12 | 
+| [ 160. Rotting Oranges (Data Structure II) ](./160.intersection-of-two-linked-lists/) | easy | 2022-07-21 06:31 | 
+| [ 55. Jump Game (Dynamic Programming I) ](./55.jump-game/) | medium | 2022-07-18 16:14 | 
+| [ 5. Longest Palindromic Substring (Data Structure II) ](./5.longest-palindromic-substring/) | medium | 2022-07-18 11:46 | 
+| [ 1328. Break a Palindrome ](./1328.break-a-palindrome/) | medium | 2022-07-18 09:37 | 
+| [ 238. Product of Array Except Self (Data Structure II) ](./238.product-of-array-except-self/) | medium | 2022-07-17 19:47 | 
+| [ 560. Subarray Sum Equals K (Data Structure II) ](./560.subarray-sum-equals-k/) | medium | 2022-07-16 19:54 | 
+| [ 1832. Check if the Sentence Is Pangram ](./1832.check-if-the-sentence-is-pangram/) | easy | 2022-07-15 20:10 | 
+| [ 2108. Find First Palindromic String in the Array ](./2108.find-first-palindromic-string-in-the-array/) | easy | 2022-07-15 20:09 | 
+| [ 125. Valid Palindrome ](./125.valid-palindrome/) | easy | 2022-07-15 20:07 | 
+| [ 680. Valid Palindrome II ](./680.valid-palindrome-ii/) | easy | 2022-07-15 19:20 | 
+| [ 1342. Number of Steps to Reduce a Number to Zero (The LeetCode Beginner's Guide) ](./1342.number-of-steps-to-reduce-a-number-to-zero/) | easy | 2022-07-15 12:50 | 
 | [ 290. Word Pattern (Data Structure II) ](./290.word-pattern/) | easy | 2022-07-14 20:35 | 
 | [ 1367. Linked List in Binary Tree (Programming Skills II) ](./1367.linked-list-in-binary-tree/) | medium | 2022-07-14 20:01 | 
 | [ 994. Rotting Oranges (Algorithm I) ](./994.rotting-oranges/) | medium | 2022-07-14 16:08 | 
