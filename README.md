@@ -1,16 +1,30 @@
 # LeetCode 2nd turn
-### last update: Sat Jul 23 17:47:28 PDT 2022
+### last update: Wed Jul 27 20:32:37 PDT 2022
 ## summary
 | level | counts |
 |-|-|
-| easy |110 |
-| medium |54 |
+| easy |113 |
+| medium |65 |
 | hard |2 |
-| total | 166 |
+| total | 180 |
 
 ## questions
 | problem | level| last modified |
 |-|-|-|
+| [ 69. Sqrt(x) ](./69.sqrtx/) | easy | 2022-07-27 20:32 | 
+| [ 49. Group Anagrams (Data Structure II) (Programming Skills II) ](./49.group-anagrams/) | medium | 2022-07-27 18:50 | 
+| [ 7. Reverse Integer ](./7.reverse-integer/) | medium | 2022-07-27 11:15 | 
+| [ 114. Flatten Binary Tree to Linked List (Data Structure II) ](./114.flatten-binary-tree-to-linked-list/) | medium | 2022-07-26 19:01 | 
+| [ 105. Construct Binary Tree from Preorder and Inorder Traversal (Data Structure II) ](./105.construct-binary-tree-from-preorder-and-inorder-traversal/) | easy | 2022-07-26 17:02 | 
+| [ 108. Convert Sorted Array to Binary Search Tree (Data Structure II) ](./108.convert-sorted-array-to-binary-search-tree/) | easy | 2022-07-26 12:48 | 
+| [ 34. Find First and Last Position of Element in Sorted Array (Data Structure II) ](./34.find-first-and-last-position-of-element-in-sorted-array/) | medium | 2022-07-26 12:28 | 
+| [ 1249. Minimum Remove to Make Valid Parentheses (Data Structure II) ](./1249.minimum-remove-to-make-valid-parentheses/) | medium | 2022-07-25 12:16 | 
+| [ 143. Reorder List (Data Structure II) ](./143.reorder-list/) | medium | 2022-07-25 10:01 | 
+| [ 155. Min Stack (Programming Skills II) ](./155.min-stack/) | medium | 2022-07-24 15:05 | 
+| [ 622. Design Circular Queue (Programming Skills II) ](./622.design-circular-queue/) | medium | 2022-07-24 14:55 | 
+| [ 729. My Calendar I (Programming Skills II) ](./729.my-calendar-i/) | medium | 2022-07-24 13:27 | 
+| [ 707. Design Linked List (Programming Skills II) ](./707.design-linked-list/) | medium | 2022-07-24 12:09 | 
+| [ 1845. Seat Reservation Manager (Programming Skills II) ](./1845.seat-reservation-manager/) | medium | 2022-07-23 20:53 | 
 | [ 61. Rotate List (Programming Skills II) ](./61.rotate-list/) | medium | 2022-07-23 17:46 | 
 | [ 503. Next Greater Element II (Programming Skills II) ](./503.next-greater-element-ii/) | medium | 2022-07-23 17:11 | 
 | [ 496. Next Greater Element I ](./496.next-greater-element-i/) | easy | 2022-07-23 14:47 | 
