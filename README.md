@@ -1,16 +1,23 @@
 # LeetCode 2nd turn
-### last update: Wed Jul 27 20:32:37 PDT 2022
+### last update: Thu Jul 28 20:22:34 PDT 2022
 ## summary
 | level | counts |
 |-|-|
 | easy |113 |
-| medium |65 |
-| hard |2 |
-| total | 180 |
+| medium |71 |
+| hard |3 |
+| total | 187 |
 
 ## questions
 | problem | level| last modified |
 |-|-|-|
+| [ 113. Path Sum II (Data Structure II) ](./113.path-sum-ii/) | medium | 2022-07-28 20:22 | 
+| [ 25. Reverse Nodes in k-Group (Data Structure II) ](./25.reverse-nodes-in-k-group/) | hard | 2022-07-28 20:05 | 
+| [ 890. Find and Replace Pattern ](./890.find-and-replace-pattern/) | medium | 2022-07-28 19:54 | 
+| [ 450. Delete Node in a BST (Data Structure II) ](./450.delete-node-in-a-bst/) | medium | 2022-07-28 13:53 | 
+| [ 841. Keys and Rooms (Data Structure II) ](./841.keys-and-rooms/) | medium | 2022-07-28 11:18 | 
+| [ 142. Linked List Cycle II (Data Structure II) ](./142.linked-list-cycle-ii/) | medium | 2022-07-28 10:25 | 
+| [ 287. Find the Duplicate Number ](./287.find-the-duplicate-number/) | medium | 2022-07-28 09:30 | 
 | [ 69. Sqrt(x) ](./69.sqrtx/) | easy | 2022-07-27 20:32 | 
 | [ 49. Group Anagrams (Data Structure II) (Programming Skills II) ](./49.group-anagrams/) | medium | 2022-07-27 18:50 | 
 | [ 7. Reverse Integer ](./7.reverse-integer/) | medium | 2022-07-27 11:15 | 
