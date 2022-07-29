@@ -43,17 +43,11 @@ class Solution:
         # 2. find the target value
         if (nums[0] <= target) and (nums[0] <= nums[R]):
             L, R = self.binarySearch(nums, 0, R, lambda mid: nums[mid] - target)
-            #print(L, R)
-            if (L < size) and (nums[L] == target):
-                return L
-            else:
-                return -1
         else:
             L, R = self.binarySearch(nums, L, size - 1, lambda mid: nums[mid] - target)
-            # print(L, R)
-            #self.debug(nums, L, R)
 
-            if (L < size) and (nums[L] == target):
-                return L
-            else:
-                return -1
+        #self.debug(nums, L, R)
+        if (L < size) and (nums[L] == target):
+            return L
+        else:
+            return -1

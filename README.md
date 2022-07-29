@@ -1,16 +1,17 @@
 # LeetCode 2nd turn
-### last update: Thu Jul 28 20:22:34 PDT 2022
+### last update: Thu Jul 28 23:39:16 PDT 2022
 ## summary
 | level | counts |
 |-|-|
 | easy |113 |
-| medium |71 |
+| medium |72 |
 | hard |3 |
-| total | 187 |
+| total | 188 |
 
 ## questions
 | problem | level| last modified |
 |-|-|-|
+| [ 33. Search in Rotated Sorted Array ](./33.search-in-rotated-sorted-array/) | medium | 2022-07-28 23:23 | 
 | [ 113. Path Sum II (Data Structure II) ](./113.path-sum-ii/) | medium | 2022-07-28 20:22 | 
 | [ 25. Reverse Nodes in k-Group (Data Structure II) ](./25.reverse-nodes-in-k-group/) | hard | 2022-07-28 20:05 | 
 | [ 890. Find and Replace Pattern ](./890.find-and-replace-pattern/) | medium | 2022-07-28 19:54 | 
