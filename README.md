@@ -1,16 +1,22 @@
 # LeetCode 2nd turn
-### last update: Thu Jul 28 23:39:16 PDT 2022
+### last update: Sun Jul 31 22:59:02 PDT 2022
 ## summary
 | level | counts |
 |-|-|
-| easy |113 |
-| medium |72 |
-| hard |3 |
-| total | 188 |
+| easy |114 |
+| medium |76 |
+| hard |4 |
+| total | 194 |
 
 ## questions
 | problem | level| last modified |
 |-|-|-|
+| [ 153. Find Minimum in Rotated Sorted Array (Binary Search) ](./153.find-minimum-in-rotated-sorted-array/) | medium | 2022-07-31 22:58 | 
+| [ 162. Find Peak Element (Binary Search) ](./162.find-peak-element/) | medium | 2022-07-31 22:27 | 
+| [ 374. Guess Number Higher or Lower (Binary Search) ](./374.guess-number-higher-or-lower/) | easy | 2022-07-31 22:19 | 
+| [ 62. Unique Paths ](./62.unique-paths/) | medium | 2022-07-31 19:39 | 
+| [ 297. Serialize and Deserialize Binary Tree (Data Structure II) ](./297.serialize-and-deserialize-binary-tree/) | hard | 2022-07-31 14:35 | 
+| [ 307. Range Sum Query - Mutable ](./307.range-sum-query-mutable/) | medium | 2022-07-30 22:00 | 
 | [ 33. Search in Rotated Sorted Array ](./33.search-in-rotated-sorted-array/) | medium | 2022-07-28 23:23 | 
 | [ 113. Path Sum II (Data Structure II) ](./113.path-sum-ii/) | medium | 2022-07-28 20:22 | 
 | [ 25. Reverse Nodes in k-Group (Data Structure II) ](./25.reverse-nodes-in-k-group/) | hard | 2022-07-28 20:05 | 
