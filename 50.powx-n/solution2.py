@@ -3,54 +3,30 @@ from sys import path
 path.append("../utils")
 from measure import measure
 
-
 class Solution:
-    def myPow(self, x: float, n: int) -> float:
-        if (x == 0):
-            return 1 if n == 0 else 0
-        if (x == -1):
-            return 1 if (n % 2 == 0) else -1
+    def myPow(self, x: float, y: int) -> float:
+        """
+        Pythonユーザーはここにコードを書いてください
+        """
 
-        absX = abs(x)
-        mem = {
-            0: 1,
-            1: absX,
-            2: absX * absX
-        }
-        def helper(x, n):
-            orgN = n
-            # print("x = {}, n = {}".format(x, n))
+        if (y == 0):
+            return -1 if x < 0 else 1
 
-            if (n in mem):
-                return mem[n]
+        isNegative = False
+        if (y < 0):
+            isNegative = True
+            y = -y
 
-            cnt = 0
-            isOddN = n & 1 == 1
-            if (isOddN):
-                n -= 1
-
-            while(n & 1 == 0):
-                n = n >> 1
-                cnt += 1
-
-            tmp = helper(x, n)
-            for _ in range(cnt):
-                tmp *= tmp
-
-            if (isOddN):
-                tmp *= x
-
-            # print("  ({}) return {}".format(orgN, tmp))
-            mem[n] = tmp
-            return tmp
+        result = 1
+        while(y > 0):
+            if (y & 1):
+                result *= x
+            x = x * x
+            y = y >> 1
 
 
-        result = helper(x, abs(n))
+        return 1 / result if isNegative else result
 
-        if n < 0:
-            return 1 / result
-        else:
-            return result
 
 # -------------------------------------------------------------
 # Following statements are for test.
