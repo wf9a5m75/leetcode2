@@ -2,34 +2,73 @@ from typing import List
 from sys import path
 path.append("../utils")
 from measure import measure
+import time
+
+from functools import cache
 
 class Solution:
     def myPow(self, x: float, y: int) -> float:
-        """
-        Pythonユーザーはここにコードを書いてください
-        """
 
-        if (y == 0):
-            return -1 if x < 0 else 1
+        # この問題が小数第5桁で丸めるので、それ以下は0
+        if abs(x) < 0.00001:
+            return 0
 
-        isNegative = False
-        if (y < 0):
-            isNegative = True
-            y = -y
+        # pow(x, 0) は常に 1
+        if y == 0:
+            return 1
 
-        result = x
-        pow = 1
+        # y を正の整数に変えておく
+        isNegative = y < 0
+        y = abs(y)
 
-        while(pow < y):
-            if (pow * 2 < y):
-                result = result * result
-                pow = pow * 2
-                print(result)
+        calcCache = [[1, x]]
+        calcCacheIndicies = {1 : 0}
+
+        @cache
+        def getCache(target: int) -> int:
+            # キャッシュが利用できる場合は利用する
+            if (target in calcCacheIndicies):
+                return calcCacheIndicies[target]
+
+            # キャッシュがない場合は、一番近いキャッシュの値を使う
+            L = 0
+            R = len(calcCache) - 1
+            while(L <= R):
+                mid = (L + R) >> 1
+                if (calcCache[mid][0] < target):
+                    L = mid + 1
+                else:
+                    R = mid - 1
+
+            return R
+
+        result = 1
+        result1 = x
+        p = 1
+        while ((p << 1) < y):
+            p <<= 1
+            if (p not in calcCacheIndicies):
+                result1 *= result1
+                calcCacheIndicies[p] = len(calcCache)
+                calcCache.append([p, result1])
             else:
-                result = result * x
-                pow = pow + 1
+                result *= getCache(p)
+                result1 = x
+                y -= p
+                p = 1
 
-        return 1 / result if isNegative else result
+        result2 = 1
+        y = y - p
+        while(y > 0):
+            cacheIdx = getCache(y)
+            y -= calcCache[cacheIdx][0]
+            result2 *= calcCache[cacheIdx][1]
+
+        result = result * result1 * result2
+        if isNegative:
+            return 1 / result
+        else:
+            return result
 
 
 # -------------------------------------------------------------
@@ -57,10 +96,10 @@ def runTests(func):
     # results.append(test("test5", func, 1.0000000004, 214783647, 1.08971))
     # results.append(test("test6", func, 1.0000000004, -214783648, 0.91767))
     # results.append(test("test7", func, 1.0000000004, -214783648, 0.91767))
-    # results.append(test("test8", func, 0, 0, 1))
+    # results.append(test("test8", func, 2, -214748364, 0))
     # results.append(test("test9", func, -13.62608, 3, -2529.95504))
-    # results.append(test("test10", func, 2, -214748364, 0))
-    results.append(test("test11", func, 3, 7, 2187))
+    results.append(test("test10", func, 2, -214748364, 0))
+    # results.append(test("test11", func, 3, 7, 2187))
 
     total = 0
     for result in results:
