@@ -1,16 +1,28 @@
 # LeetCode 2nd turn
-### last update: Tue Aug  2 18:17:54 PDT 2022
+### last update: Tue Aug  9 16:06:53 PDT 2022
 ## summary
 | level | counts |
 |-|-|
-| easy |117 |
-| medium |84 |
-| hard |5 |
-| total | 206 |
+| easy |120 |
+| medium |91 |
+| hard |6 |
+| total | 217 |
 
 ## questions
 | problem | level| last modified |
 |-|-|-|
+| [ 187. Repeated DNA Sequences (Data Structure II) ](./187.repeated-dna-sequences/) | medium | 2022-08-09 16:06 | 
+| [ 205. Isomorphic Strings (LeetCode 75 - Level I) ](./205.isomorphic-strings/) | easy | 2022-08-09 13:22 | 
+| [ 392. Is Subsequence (LeetCode 75 - Level I) ](./392.is-subsequence/) | easy | 2022-08-09 13:11 | 
+| [ 139. Word Break ](./139.word-break/) | medium | 2022-08-09 11:24 | 
+| [ 823. Binary Trees With Factors ](./823.binary-trees-with-factors/) | medium | 2022-08-08 22:42 | 
+| [ 1480. Running Sum of 1d Array (LeetCode 75 - Level I) ](./1480.running-sum-of-1d-array/) | easy | 2022-08-08 13:18 | 
+| [ 1137. N-th Tribonacci Number ](./300.longest-increasing-subsequence/) | medium | 2022-08-07 19:04 | 
+| [ 1220. Count Vowels Permutation ](./1220.count-vowels-permutation/) | hard | 2022-08-07 17:42 | 
+| [ 377. Combination Sum IV ](./377.combination-sum-iv/) | medium | 2022-08-04 19:42 | 
+| [ 82. Remove Duplicates from Sorted List II (Data Structure II) (Algorithm II) ](./82.remove-duplicates-from-sorted-list-ii/) | medium | 2022-08-04 12:53 | 
+| [ 858. Mirror Reflection ](./858.mirror-reflection/) | medium | 2022-08-04 10:55 | 
+| [ 6. Zigzag Conversion ](./6.zigzag-conversion/) | medium | 2022-08-02 18:36 | 
 | [ 173. Binary Search Tree Iterator (Data Structure II) (Programming Skills II) ](./173.binary-search-tree-iterator/) | medium | 2022-08-02 12:45 | 
 | [ 103. Binary Tree Zigzag Level Order Traversal (Data Structure II) ](./103.binary-tree-zigzag-level-order-traversal/) | medium | 2022-08-02 12:19 | 
 | [ 347. Top K Frequent Elements (Data Structure II) ](./347.top-k-frequent-elements/) | medium | 2022-08-02 11:58 | 
@@ -207,7 +219,6 @@
 | [ 941.Valid Mountain Array (Arrays 101) ](./941.valid-mountain-array/) | easy | 2022-06-18 22:55 | 
 | [ 1346. Check If N and Its Double Exist (Arrays 101) ](./1346.check-if-n-and-its-double-exist/) | easy | 2022-06-18 22:55 | 
 | [ 1299. Replace Elements with Greatest Element on Right Side (Arrays 101) ](./1299.replace-elements-with-greatest-element-on-right-side/) | easy | 2022-06-18 22:55 | 
-| [ 82. Remove Duplicates from Sorted List II ](./82.remove-duplicates-from-sorted-list-ii/) | medium | 2022-06-18 15:29 | 
 | [ 83. Remove Duplicates from Sorted List ](./83.remove-duplicates-from-sorted-list/) | easy | 2022-06-18 15:10 | 
 | [ 80. Remove Duplicates from Sorted Array ](./80.remove-duplicates-from-sorted-array-ii/) | medium | 2022-06-18 14:39 | 
 | [ 26. Remove Duplicates from Sorted Array (Arrays 101) ](./26.remove-duplicates-from-sorted-array/) | easy | 2022-06-18 14:24 | 
