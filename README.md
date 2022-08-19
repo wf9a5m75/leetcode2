@@ -1,16 +1,28 @@
 # LeetCode 2nd turn
-### last update: Tue Aug  9 16:06:53 PDT 2022
+### last update: Fri Aug 19 04:36:18 PDT 2022
 ## summary
 | level | counts |
 |-|-|
-| easy |120 |
-| medium |91 |
-| hard |6 |
-| total | 217 |
+| easy |124 |
+| medium |97 |
+| hard |7 |
+| total | 228 |
 
 ## questions
 | problem | level| last modified |
 |-|-|-|
+| [ 659. Split Array into Consecutive Subsequences ](./659.split-array-into-consecutive-subsequences/) | medium | 2022-08-19 04:35 | 
+| [ 1338. Reduce Array Size to The Half ](./1338.reduce-array-size-to-the-half/) | medium | 2022-08-17 17:54 | 
+| [ 804. Unique Morse Code Words ](./804.unique-morse-code-words/) | easy | 2022-08-16 21:30 | 
+| [ 86. Partition List ](./86.partition-list/) | medium | 2022-08-15 19:37 | 
+| [ 2351. First Letter to Appear Twice ](./2351.first-letter-to-appear-twice/) | easy | 2022-08-15 18:22 | 
+| [ 273. Integer to English Words ](./273.integer-to-english-words/) | hard | 2022-08-15 13:47 | 
+| [ 12. Integer to Roman ](./12.integer-to-roman/) | medium | 2022-08-15 11:10 | 
+| [ 13. Roman to Integer ](./13.roman-to-integer/) | easy | 2022-08-15 10:18 | 
+| [ 200. Number of Islands (LeetCode 75 - Level I) ](./200.number-of-islands/) | medium | 2022-08-11 21:58 | 
+| [ 733. Flood Fill (LeetCode 75 - Level I) ](./733.flood-fill/) | easy | 2022-08-11 17:44 | 
+| [ 589. N-ary Tree Preorder Traversal (LeetCode 75 - Level I) ](./589.n-ary-tree-preorder-traversal/) | easy | 2022-08-11 10:07 | 
+| [ 109. Convert Sorted List to Binary Search Tree ](./109.convert-sorted-list-to-binary-search-tree/) | medium | 2022-08-09 17:36 | 
 | [ 187. Repeated DNA Sequences (Data Structure II) ](./187.repeated-dna-sequences/) | medium | 2022-08-09 16:06 | 
 | [ 205. Isomorphic Strings (LeetCode 75 - Level I) ](./205.isomorphic-strings/) | easy | 2022-08-09 13:22 | 
 | [ 392. Is Subsequence (LeetCode 75 - Level I) ](./392.is-subsequence/) | easy | 2022-08-09 13:11 | 
@@ -175,7 +187,6 @@
 | [ 387. First Unique Character in a String (Data Structure I) ](./387.first-unique-character-in-a-string/) | easy | 2022-06-27 15:36 | 
 | [ 74. Search a 2D Matrix (Data Structure I) ](./74.search-a-2d-matrix/) | medium | 2022-06-27 15:13 | 
 | [ 674. Longest Continuous Increasing Subsequence ](./674.longest-continuous-increasing-subsequence/) | easy | 2022-06-27 09:43 | 
-| [ 733. Flood Fill ](./733.flood-fill/) | easy | 2022-06-26 18:38 | 
 | [ 766. Toeplitz Matrix ](./766.toeplitz-matrix/) | easy | 2022-06-26 18:13 | 
 | [ 463. Island Perimeter ](./463.island-perimeter/) | easy | 2022-06-26 18:01 | 
 | [ 1380. Lucky Numbers in a Matrix ](./1380.lucky-numbers-in-a-matrix/) | easy | 2022-06-26 15:53 | 
