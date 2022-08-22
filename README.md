@@ -1,16 +1,21 @@
 # LeetCode 2nd turn
-### last update: Fri Aug 19 04:36:18 PDT 2022
+### last update: Sun Aug 21 21:27:11 PDT 2022
 ## summary
 | level | counts |
 |-|-|
-| easy |124 |
-| medium |97 |
+| easy |126 |
+| medium |100 |
 | hard |7 |
-| total | 228 |
+| total | 233 |
 
 ## questions
 | problem | level| last modified |
 |-|-|-|
+| [ 692. Top K Frequent Words (LeetCode 75 - Level I) ](./692.top-k-frequent-words/) | medium | 2022-08-21 19:38 | 
+| [ 1046. Last Stone Weight (LeetCode 75 - Level I) ](./1046.last-stone-weight/) | easy | 2022-08-21 15:30 | 
+| [ 394. Decode String (LeetCode 75 - Level I) ](./394.decode-string/) | medium | 2022-08-21 14:57 | 
+| [ 844. Backspace String Compare (LeetCode 75 - Level I) ](./844.backspace-string-compare/) | easy | 2022-08-20 22:10 | 
+| [ 299. Bulls and Cows (LeetCode 75 - Level I) ](./299.bulls-and-cows/) | medium | 2022-08-20 15:12 | 
 | [ 659. Split Array into Consecutive Subsequences ](./659.split-array-into-consecutive-subsequences/) | medium | 2022-08-19 04:35 | 
 | [ 1338. Reduce Array Size to The Half ](./1338.reduce-array-size-to-the-half/) | medium | 2022-08-17 17:54 | 
 | [ 804. Unique Morse Code Words ](./804.unique-morse-code-words/) | easy | 2022-08-16 21:30 | 
