@@ -1,16 +1,25 @@
 # LeetCode 2nd turn
-### last update: Sun Aug 21 21:27:11 PDT 2022
+### last update: Wed Aug 24 12:32:41 PDT 2022
 ## summary
 | level | counts |
 |-|-|
-| easy |126 |
-| medium |100 |
+| easy |129 |
+| medium |106 |
 | hard |7 |
-| total | 233 |
+| total | 242 |
 
 ## questions
 | problem | level| last modified |
 |-|-|-|
+| [ 997. Find the Town Judge (Data Structure II) ](./997.find-the-town-judge/) | easy | 2022-08-24 12:26 | 
+| [ 29. Divide Two Integers ](./29.divide-two-integers/) | medium | 2022-08-23 23:53 | 
+| [ 1305. All Elements in Two Binary Search Trees ](./1305.all-elements-in-two-binary-search-trees/) | medium | 2022-08-23 22:25 | 
+| [ 326. Power of Three ](./326.power-of-three/) | easy | 2022-08-23 21:50 | 
+| [ 334. Increasing Triplet Subsequence (Data Structure II) ](./334.increasing-triplet-subsequence/) | medium | 2022-08-23 13:34 | 
+| [ 8. String to Integer (atoi) ](./8.string-to-integer-atoi/) | medium | 2022-08-23 12:30 | 
+| [ 739. Daily Temperatures (Programming Skills II) ](./739.daily-temperatures/) | medium | 2022-08-23 00:00 | 
+| [ 328. Odd Even Linked List ](./328.odd-even-linked-list/) | medium | 2022-08-22 14:56 | 
+| [ 342. Power of Four ](./342.power-of-four/) | easy | 2022-08-22 10:29 | 
 | [ 692. Top K Frequent Words (LeetCode 75 - Level I) ](./692.top-k-frequent-words/) | medium | 2022-08-21 19:38 | 
 | [ 1046. Last Stone Weight (LeetCode 75 - Level I) ](./1046.last-stone-weight/) | easy | 2022-08-21 15:30 | 
 | [ 394. Decode String (LeetCode 75 - Level I) ](./394.decode-string/) | medium | 2022-08-21 14:57 | 
