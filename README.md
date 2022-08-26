@@ -1,16 +1,24 @@
 # LeetCode 2nd turn
-### last update: Wed Aug 24 12:32:41 PDT 2022
+### last update: Thu Aug 25 17:02:02 PDT 2022
 ## summary
 | level | counts |
 |-|-|
-| easy |129 |
-| medium |106 |
+| easy |131 |
+| medium |111 |
 | hard |7 |
-| total | 242 |
+| total | 249 |
 
 ## questions
 | problem | level| last modified |
 |-|-|-|
+| [ 1654. Minimum Jumps to Reach Home ](./1654.minimum-jumps-to-reach-home/) | medium | 2022-08-25 13:45 | 
+| [ 1929. Concatenation of Array ](./1929.concatenation-of-array/) | easy | 2022-08-25 12:34 | 
+| [ 1689. Partitioning Into Minimum Number Of Deci-Binary Numbers ](./1689.partitioning-into-minimum-number-of-deci-binary-numbers/) | medium | 2022-08-25 12:29 | 
+| [ 2011. Final Value of Variable After Performing Operations ](./2011.final-value-of-variable-after-performing-operations/) | easy | 2022-08-25 12:19 | 
+| [ 15. 3sum (Data Structure II, Algorithm II) ](./15.3sum/) | medium | 2022-08-24 22:11 | 
+| [ 229. Majority Element II ](./229.majority-element-ii/) | medium | 2022-08-24 19:45 | 
+| [ 1557. Minimum Number of Vertices to Reach All Nodes (Data Structure II) ](./1557.minimum-number-of-vertices-to-reach-all-nodes/) | medium | 2022-08-24 18:21 | 
+| [ 763. Partition Labels (Data Structure II) ](./763.partition-labels/) | medium | 2022-08-24 17:45 | 
 | [ 997. Find the Town Judge (Data Structure II) ](./997.find-the-town-judge/) | easy | 2022-08-24 12:26 | 
 | [ 29. Divide Two Integers ](./29.divide-two-integers/) | medium | 2022-08-23 23:53 | 
 | [ 1305. All Elements in Two Binary Search Trees ](./1305.all-elements-in-two-binary-search-trees/) | medium | 2022-08-23 22:25 | 
@@ -157,7 +165,6 @@
 | [ 70. Climbing Stairs (Recursion I) (Dynamic Programming I) ](./70.climbing-stairs/) | easy | 2022-07-04 22:26 | 
 | [ 1137. N-th Tribonacci Number (Dynamic Programming I) ](./1137.n-th-tribonacci-number/) | easy | 2022-07-04 22:19 | 
 | [ 509. Fibonacci Number (Recursion I) (Dynamic Programming I) ](./509.fibonacci-number/) | easy | 2022-07-04 22:14 | 
-| [ 15. 3sum ](./15.3sum/) | medium | 2022-07-04 22:13 | 
 | [ 695. Max Area of Island (Algorithm I) ](./695.max-area-of-island/) | medium | 2022-07-03 18:49 | 
 | [ 567. Permutation in String (Algorithm I) ](./567.permutation-in-string/) | medium | 2022-07-03 17:41 | 
 | [ 19. Remove Nth Node From End of List (Algorithm I) ](./19.remove-nth-node-from-end-of-list/) | medium | 2022-07-03 12:52 | 
