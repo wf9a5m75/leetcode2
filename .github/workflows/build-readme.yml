@@ -8,7 +8,7 @@ on:
 jobs:
   build:
     name: Trigger update README.md
-    runs-on: ubuntu-latest
+    runs-on: macos-latest
     steps:
       - uses: actions/checkout@v3
       - name: update README.md
