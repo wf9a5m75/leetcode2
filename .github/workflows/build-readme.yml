@@ -1,7 +1,7 @@
 name: Update README.md
 on:
   schedule:
-    - cron: '*/5 * * * *'
+    - cron: '0 0 * * *'
 
 jobs:
   build:
@@ -13,7 +13,7 @@ jobs:
         with:
           fetch-depth: 0
 
-      - name: restore timestamp
+      - name: Restore file time stamp
         uses: chetan/git-restore-mtime-action@v1
 
       - name: update README.md
