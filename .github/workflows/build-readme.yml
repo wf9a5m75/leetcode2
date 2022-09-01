@@ -1,7 +1,7 @@
 name: Update README.md
 on:
   schedule:
-    - cron: '35 9 * * *'
+    - cron: '*/15 * * * *'
 
 jobs:
   build:
