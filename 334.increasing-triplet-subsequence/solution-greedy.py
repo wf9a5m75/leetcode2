@@ -1,18 +1,19 @@
-#
-# Greedy approach
-#   time complexity: O(N)
-#   space complexity: O(1)
-#
 class Solution:
     def increasingTriplet(self, nums: List[int]) -> bool:
+        size = len(nums)
+        if (len(nums) < 3):
+            return False
 
-        i = j = float("inf")
+        smallest = middle = float("inf")
         for num in nums:
-            if (num <= i):
-                i = num  # smallest
-            elif (num <= j):
-                j = num  # middle
-            else:
-                return True  # (i < num) and (j < num)
+            if num <= smallest:
+                smallest = num
 
+            # Since the current middle is the value appearred before,
+            # so, we need to change the middle to the num
+            elif middle >= num:
+                middle = num
+
+            else:
+                return True
         return False
