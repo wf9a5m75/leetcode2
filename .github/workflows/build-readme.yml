@@ -1,24 +1,30 @@
 name: Update README.md
 on:
   schedule:
-    - cron: '0 0 * * *'
+    - cron: '*/15 0 * * *'
 
 jobs:
   build:
     name: Trigger update README.md
     runs-on: macos-latest
     steps:
-      - uses: actions/checkout@v3
+      - name: Checkout files
+        uses: actions/checkout@v3
+        with:
+          fetch-depth: 0
+
+      - name: restore timestamp
+        uses: chetan/git-restore-mtime-action@v1
+
       - name: update README.md
         run: |
           bash _build_readme.sh
-      - name: Commit files
+
+      - name: Commit & push files
+        uses: actions/checkout@v3
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
           git add .
           git commit -m "Add changes" -a
-      - name: Push changes
-        uses: ad-m/github-push-action@master
-        with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
+          git push
