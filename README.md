@@ -1,16 +1,17 @@
 # LeetCode 2nd turn
-### last update: Fri Sep  2 00:10:16 UTC 2022
+### last update: Sat Sep  3 00:09:44 UTC 2022
 ## summary
 | level | counts |
 |-|-|
-| easy |131 |
+| easy |132 |
 | medium |116 |
 | hard |7 |
-| total | 254 |
+| total | 255 |
 
 ## questions
 | problem | level| last modified |
 |-|-|-|
+| [ 637. Average of Levels in Binary Tree ](./637.average-of-levels-in-binary-tree/) | easy | 2022-09-02 16:09 | 
 | [ 1448. Count Good Nodes in Binary Tree ](./1448.count-good-nodes-in-binary-tree/) | medium | 2022-09-01 01:53 | 
 | [ 2221. Find Triangular Sum of an Array ](./2221.find-triangular-sum-of-an-array/) | medium | 2022-08-30 16:18 | 
 | [ 1329. Sort the Matrix Diagonally ](./1329.sort-the-matrix-diagonally/) | medium | 2022-08-29 04:08 | 
