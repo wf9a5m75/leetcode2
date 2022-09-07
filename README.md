@@ -1,16 +1,19 @@
 # LeetCode 2nd turn
-### last update: Sat Sep  3 00:09:44 UTC 2022
+### last update: Wed Sep  7 00:10:21 UTC 2022
 ## summary
 | level | counts |
 |-|-|
 | easy |132 |
-| medium |116 |
+| medium |118 |
 | hard |7 |
-| total | 255 |
+| total | 257 |
 
 ## questions
 | problem | level| last modified |
 |-|-|-|
+| [ 560. Subarray Sum Equals K (Data Structure II) ](./560.subarray-sum-equals-k/) | medium | 2022-09-03 23:44 | 
+| [ 148. Sort List ](./148.sort-list/) | medium | 2022-09-03 23:44 | 
+| [ 967. Numbers With Same Consecutive Differences ](./967.numbers-with-same-consecutive-differenc/) | medium | 2022-09-03 20:42 | 
 | [ 637. Average of Levels in Binary Tree ](./637.average-of-levels-in-binary-tree/) | easy | 2022-09-02 16:09 | 
 | [ 1448. Count Good Nodes in Binary Tree ](./1448.count-good-nodes-in-binary-tree/) | medium | 2022-09-01 01:53 | 
 | [ 2221. Find Triangular Sum of an Array ](./2221.find-triangular-sum-of-an-array/) | medium | 2022-08-30 16:18 | 
@@ -113,7 +116,6 @@
 | [ 5. Longest Palindromic Substring (Data Structure II) ](./5.longest-palindromic-substring/) | medium | 2022-07-18 18:46 | 
 | [ 1328. Break a Palindrome ](./1328.break-a-palindrome/) | medium | 2022-07-18 16:37 | 
 | [ 238. Product of Array Except Self (Data Structure II) ](./238.product-of-array-except-self/) | medium | 2022-07-18 02:47 | 
-| [ 560. Subarray Sum Equals K (Data Structure II) ](./560.subarray-sum-equals-k/) | medium | 2022-07-17 02:54 | 
 | [ 1832. Check if the Sentence Is Pangram ](./1832.check-if-the-sentence-is-pangram/) | easy | 2022-07-16 03:10 | 
 | [ 2108. Find First Palindromic String in the Array ](./2108.find-first-palindromic-string-in-the-array/) | easy | 2022-07-16 03:09 | 
 | [ 125. Valid Palindrome ](./125.valid-palindrome/) | easy | 2022-07-16 03:07 | 
