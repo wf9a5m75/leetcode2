@@ -1,16 +1,17 @@
 # LeetCode 2nd turn
-### last update: Wed Sep  7 00:10:21 UTC 2022
+### last update: Fri Sep  9 00:12:08 UTC 2022
 ## summary
 | level | counts |
 |-|-|
-| easy |132 |
+| easy |133 |
 | medium |118 |
 | hard |7 |
-| total | 257 |
+| total | 258 |
 
 ## questions
 | problem | level| last modified |
 |-|-|-|
+| [ 606. Construct String from Binary Tree ](./606.construct-string-from-binary-tree/) | easy | 2022-09-07 13:38 | 
 | [ 560. Subarray Sum Equals K (Data Structure II) ](./560.subarray-sum-equals-k/) | medium | 2022-09-03 23:44 | 
 | [ 148. Sort List ](./148.sort-list/) | medium | 2022-09-03 23:44 | 
 | [ 967. Numbers With Same Consecutive Differences ](./967.numbers-with-same-consecutive-differenc/) | medium | 2022-09-03 20:42 | 
