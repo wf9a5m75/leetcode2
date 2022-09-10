@@ -1,16 +1,17 @@
 # LeetCode 2nd turn
-### last update: Fri Sep  9 00:12:08 UTC 2022
+### last update: Sat Sep 10 00:11:50 UTC 2022
 ## summary
 | level | counts |
 |-|-|
 | easy |133 |
-| medium |118 |
+| medium |119 |
 | hard |7 |
-| total | 258 |
+| total | 259 |
 
 ## questions
 | problem | level| last modified |
 |-|-|-|
+| [ 1996. The Number of Weak Characters in the Game ](./1996.the-number-of-weak-characters-in-the-game/) | medium | 2022-09-09 04:40 | 
 | [ 606. Construct String from Binary Tree ](./606.construct-string-from-binary-tree/) | easy | 2022-09-07 13:38 | 
 | [ 560. Subarray Sum Equals K (Data Structure II) ](./560.subarray-sum-equals-k/) | medium | 2022-09-03 23:44 | 
 | [ 148. Sort List ](./148.sort-list/) | medium | 2022-09-03 23:44 | 
