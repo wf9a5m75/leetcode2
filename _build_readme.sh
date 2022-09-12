@@ -1,12 +1,15 @@
 #!/bin/bash
 
-NEW_FILES=$(find . -name "*.py" -a -mtime -1 | wc -l)
+NEW_FILES=$(find ./*/* -name "README.md" -a -mtime -1 | wc -l)
 if [ $NEW_FILES == 0 ]; then
   echo "No update"
   echo "::set-output name=DO_UPDATE::0"
   exit 0
 else
   echo "Need update"
+  echo "::group::new problems"
+  find ./*/* -name "README.md" -a -mtime -1
+  echo "::endgroup::"
   echo "::set-output name=DO_UPDATE::1"
 fi
 
