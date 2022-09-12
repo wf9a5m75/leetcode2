@@ -1,6 +1,6 @@
 #!/bin/bash
 
-NEW_FILES=$(find . -name "*.py" -a -mtime -1 | wc -l)
+NEW_FILES=$(find . -name "*.md" -a -mtime -1 | wc -l)
 if [ $NEW_FILES == 0 ]; then
   echo "No update"
   echo "::set-output name=DO_UPDATE::0"
