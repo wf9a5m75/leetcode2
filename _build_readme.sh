@@ -1,5 +1,15 @@
 #!/bin/bash
 
+NEW_FILES=$(find . -name "*.py" -a -mtime -1 | wc -l)
+if [ $NEW_FILES == 0 ]; then
+  echo "No update"
+  echo "::set-output name=DO_UPDATE::0"
+  exit 0
+else
+  echo "Need update"
+  echo "::set-output name=DO_UPDATE::1"
+fi
+
 OUTPUT=./README.md
 echo "# LeetCode 2nd turn" > $OUTPUT
 now=$(date)
@@ -7,6 +17,17 @@ echo "### last update: ${now}" >> $OUTPUT
 
 
 echo "" > /tmp/README.md
+
+runOnLinux=0
+if [[ "$OSTYPE" == "linux-gnu"* ]]; then
+  runOnLinux=1
+elif [[ "$OSTYPE" == "darwin"* ]]; then
+  runOnLinux=0
+else
+  echo "$OSTYPE is unsupported. This script works on Linux or macOS only" > stderr
+  exit 1
+fi
+
 
 easy=0
 medium=0
@@ -18,8 +39,17 @@ do
     info=$(head -n 2 "${file_path}")
     name=$(echo ${info} | sed 's/##/#/g' | cut -d '#' -f 2)
     level=$(echo ${info} |  cut -d ':' -f 2 | tr '[:upper:]' '[:lower:]' | tr -d '[:space:]')
-    modified=$(stat -f "%Sm" -t "%Y-%m-%d %H:%M" ${file_path})
-    modified_sort=$(stat -f "%Sm" -t "%Y%m%d%H%M" ${file_path})
+
+
+
+    if [ $runOnLinux == 1 ]; then
+      modified_epoctime=$(stat -c %Y  ${file_path})
+      modified=$(date --date "@${modified_epoctime}" +"%Y-%m-%d %H:%M")
+      modified_sort=$(date --date "@${modified_epoctime}" +"%Y%m%d%H%M")
+    else
+      modified=$(stat -f "%Sm" -t "%Y-%m-%d %H:%M" ${file_path})
+      modified_sort=$(stat -f "%Sm" -t "%Y%m%d%H%M" ${file_path})
+    fi
     dir_path=$(dirname $file_path)
 
     if [ "${level}" = "easy" ]; then

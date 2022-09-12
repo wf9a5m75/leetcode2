@@ -1,13 +1,18 @@
 name: Update README.md
 on:
+  workflow_dispatch:
   schedule:
     - cron: '0 0 * * *'
 
 jobs:
   build:
     name: Trigger update README.md
-    runs-on: macos-latest
+    runs-on: ubuntu-latest
     steps:
+      - name: change time zone
+        run: |
+          sudo rm -rf /etc/localtime
+          sudo ln -s /usr/share/zoneinfo/America/Los_Angeles /etc/localtime
       - name: Checkout files
         uses: actions/checkout@v3
         with:
@@ -17,10 +22,12 @@ jobs:
         uses: chetan/git-restore-mtime-action@v1
 
       - name: update README.md
+        id: build
         run: |
           bash _build_readme.sh
 
       - name: Commit & push files
+        if: ${{ steps.build.outputs.DO_UPDATE == 1 }}
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
