@@ -1,16 +1,20 @@
 # LeetCode 2nd turn
-### last update: Tue Sep 13 17:12:13 PDT 2022
+### last update: Wed Sep 14 17:11:56 PDT 2022
 ## summary
 | level | counts |
 |-|-|
 | easy |133 |
-| medium |120 |
+| medium |121 |
 | hard |7 |
-| total | 260 |
+| total | 261 |
 
 ## questions
 | problem | level| last modified |
 |-|-|-|
+| [ 199. Binary Tree Right Side View (Data Structure II) ](./199.binary-tree-right-side-view/) | medium | 2022-09-14 12:39 | 
+| [ 155. Min Stack (Programming Skills II) (Data Structure II) ](./155.min-stack/) | medium | 2022-09-14 11:28 | 
+| [ 707. Design Linked List (Programming Skills II)(Data Structure II) ](./707.design-linked-list/) | medium | 2022-09-13 23:16 | 
+| [ 24. Swap Nodes in Pairs (Recursion I) (Data Structure II) ](./24.swap-nodes-in-pairs/) | easy | 2022-09-13 22:52 | 
 | [ 393. UTF-8 Validation ](./393.utf-8-validation/) | medium | 2022-09-12 20:53 | 
 | [ 1996. The Number of Weak Characters in the Game ](./1996.the-number-of-weak-characters-in-the-game/) | medium | 2022-09-08 21:40 | 
 | [ 606. Construct String from Binary Tree ](./606.construct-string-from-binary-tree/) | easy | 2022-09-07 06:38 | 
@@ -104,10 +108,8 @@
 | [ 34. Find First and Last Position of Element in Sorted Array (Data Structure II) ](./34.find-first-and-last-position-of-element-in-sorted-array/) | medium | 2022-07-26 12:28 | 
 | [ 1249. Minimum Remove to Make Valid Parentheses (Data Structure II) ](./1249.minimum-remove-to-make-valid-parentheses/) | medium | 2022-07-25 20:07 | 
 | [ 143. Reorder List (Data Structure II) ](./143.reorder-list/) | medium | 2022-07-25 10:02 | 
-| [ 155. Min Stack (Programming Skills II) ](./155.min-stack/) | medium | 2022-07-24 15:05 | 
 | [ 622. Design Circular Queue (Programming Skills II) ](./622.design-circular-queue/) | medium | 2022-07-24 14:55 | 
 | [ 729. My Calendar I (Programming Skills II) ](./729.my-calendar-i/) | medium | 2022-07-24 13:28 | 
-| [ 707. Design Linked List (Programming Skills II) ](./707.design-linked-list/) | medium | 2022-07-24 12:09 | 
 | [ 1845. Seat Reservation Manager (Programming Skills II) ](./1845.seat-reservation-manager/) | medium | 2022-07-23 20:53 | 
 | [ 61. Rotate List (Programming Skills II) ](./61.rotate-list/) | medium | 2022-07-23 17:47 | 
 | [ 503. Next Greater Element II (Programming Skills II) ](./503.next-greater-element-ii/) | medium | 2022-07-23 17:11 | 
@@ -251,7 +253,6 @@
 | [ 700. Search in a Binary Search Tree (Recursion I) ](./700.search-in-a-binary-search-tree/) | easy | 2022-06-20 11:50 | 
 | [ 92. Reverse Linked List ](./92.reverse-linked-list-ii/) | medium | 2022-06-20 10:45 | 
 | [ 206. Reverse Linked List (Recursion I) ](./206.reverse-linked-list/) | easy | 2022-06-20 10:45 | 
-| [ 24. Swap Nodes in Pairs (Recursion I) ](./24.swap-nodes-in-pairs/) | easy | 2022-06-20 08:47 | 
 | [ 344. Reverse String (Recursion I) ](./344.reverse-string/) | easy | 2022-06-20 08:32 | 
 | [ 448. Find All Numbers Disappeared in an Array (Arrays 101) ](./448.find-all-numbers-disappeared-in-an-array/) | easy | 2022-06-20 06:12 | 
 | [ 414. Third Maximum Number (Arrays 101) ](./414.third-maximum-number/) | easy | 2022-06-19 14:37 | 
