@@ -26,44 +26,27 @@ class Solution:
             return L
 
         def binarySearch(L: int, R: int) -> int:
-            if (L == R):
-                return L if getVal(L) == target else -1
-            if (L > R):
-                return -1
-            while(L < R):
+
+            while(L <= R):
                 mid = (L + R) >> 1
-                if (getVal(mid) == target):
-                    R = mid
-                elif (getVal(mid) < target):
+                if (getVal(mid) <= target):
                     L = mid + 1
                 else:
                     R = mid - 1
-
-            if (getVal(L) == target):
-                return L
-            elif (R >= 0) and (getVal(R) == target):
+            if (R >= 0) and (getVal(R) == target):
                 return R
             else:
                 return -1
 
         def binarySearchReverse(L: int, R: int) -> int:
-            if (L == R):
-                return L if getVal(L) == target else -1
-            if (L > R):
-                return -1
-            while(L < R):
+            while(L <= R):
                 mid = (L + R) >> 1
-                if (getVal(mid) == target):
-                    R = mid
-                elif (getVal(mid) < target):
+                if (getVal(mid) <= target):
                     R = mid - 1
                 else:
                     L = mid + 1
-
-            if (getVal(L) == target):
+            if (L < size) and (getVal(L) == target):
                 return L
-            elif (R >= 0) and (getVal(R) == target):
-                return R
             else:
                 return -1
 
