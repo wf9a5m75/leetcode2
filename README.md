@@ -1,16 +1,22 @@
 # LeetCode 2nd turn
-### last update: Wed Sep 14 17:11:56 PDT 2022
+### last update: Thu Sep 15 17:13:01 PDT 2022
 ## summary
 | level | counts |
 |-|-|
-| easy |133 |
-| medium |121 |
+| easy |134 |
+| medium |124 |
 | hard |7 |
-| total | 261 |
+| total | 265 |
 
 ## questions
 | problem | level| last modified |
 |-|-|-|
+| [ 888. Fair Candy Swap ](./888.fair-candy-swap/) | easy | 2022-09-15 16:29 | 
+| [ 74. Search a 2D Matrix (Data Structure II) ](./74.search-a-2d-matrix/) | medium | 2022-09-15 15:50 | 
+| [ 81. Search in Rotated Sorted Array II ](./81.search-in-rotated-sorted-array-ii/) | medium | 2022-09-15 12:23 | 
+| [ 33. Search in Rotated Sorted Array (Data Structure II) ](./33.search-in-rotated-sorted-array/) | medium | 2022-09-15 10:07 | 
+| [ 2055. Plates Between Candles ](./2055.plates-between-candles/) | medium | 2022-09-15 00:22 | 
+| [ 2007. Find Original Array From Doubled Array ](./2007.find-original-array-from-doubled-array/) | medium | 2022-09-14 18:50 | 
 | [ 199. Binary Tree Right Side View (Data Structure II) ](./199.binary-tree-right-side-view/) | medium | 2022-09-14 12:39 | 
 | [ 155. Min Stack (Programming Skills II) (Data Structure II) ](./155.min-stack/) | medium | 2022-09-14 11:28 | 
 | [ 707. Design Linked List (Programming Skills II)(Data Structure II) ](./707.design-linked-list/) | medium | 2022-09-13 23:16 | 
@@ -91,7 +97,6 @@
 | [ 62. Unique Paths ](./62.unique-paths/) | medium | 2022-07-31 19:39 | 
 | [ 297. Serialize and Deserialize Binary Tree (Data Structure II) ](./297.serialize-and-deserialize-binary-tree/) | hard | 2022-07-31 19:31 | 
 | [ 307. Range Sum Query - Mutable ](./307.range-sum-query-mutable/) | medium | 2022-07-30 22:01 | 
-| [ 33. Search in Rotated Sorted Array ](./33.search-in-rotated-sorted-array/) | medium | 2022-07-28 23:38 | 
 | [ 113. Path Sum II (Data Structure II) ](./113.path-sum-ii/) | medium | 2022-07-28 20:22 | 
 | [ 25. Reverse Nodes in k-Group (Data Structure II) ](./25.reverse-nodes-in-k-group/) | hard | 2022-07-28 20:05 | 
 | [ 890. Find and Replace Pattern ](./890.find-and-replace-pattern/) | medium | 2022-07-28 19:54 | 
@@ -219,7 +224,6 @@
 | [ 242. Valid Anagram (Data Structure I) ](./242.valid-anagram/) | easy | 2022-06-27 15:44 | 
 | [ 383. Ransom Note (Data Structure I) ](./383.ransom-note/) | easy | 2022-06-27 15:40 | 
 | [ 387. First Unique Character in a String (Data Structure I) ](./387.first-unique-character-in-a-string/) | easy | 2022-06-27 15:36 | 
-| [ 74. Search a 2D Matrix (Data Structure I) ](./74.search-a-2d-matrix/) | medium | 2022-06-27 15:14 | 
 | [ 674. Longest Continuous Increasing Subsequence ](./674.longest-continuous-increasing-subsequence/) | easy | 2022-06-27 09:44 | 
 | [ 766. Toeplitz Matrix ](./766.toeplitz-matrix/) | easy | 2022-06-26 18:14 | 
 | [ 463. Island Perimeter ](./463.island-perimeter/) | easy | 2022-06-26 18:02 | 
