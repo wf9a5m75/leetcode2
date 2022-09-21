@@ -1,16 +1,19 @@
 # LeetCode 2nd turn
-### last update: Mon Sep 19 17:15:44 PDT 2022
+### last update: Tue Sep 20 17:13:35 PDT 2022
 ## summary
 | level | counts |
 |-|-|
-| easy |136 |
-| medium |128 |
+| easy |137 |
+| medium |130 |
 | hard |8 |
-| total | 272 |
+| total | 275 |
 
 ## questions
 | problem | level| last modified |
 |-|-|-|
+| [ 718. Maximum Length of Repeated Subarray ](./718.maximum-length-of-repeated-subarray/) | medium | 2022-09-19 23:04 | 
+| [ 16. 3Sum Closest ](./16.3sum-closest/) | medium | 2022-09-19 14:51 | 
+| [ 2367. Number of Arithmetic Triplets ](./2367.number-of-arithmetic-triplets/) | easy | 2022-09-19 11:30 | 
 | [ 609. Find Duplicate File in System ](./609.find-duplicate-file-in-system/) | medium | 2022-09-19 10:25 | 
 | [ 682. Baseball Game ](./682.baseball-game/) | easy | 2022-09-16 13:37 | 
 | [ 1614. Maximum Nesting Depth of the Parentheses ](./1614.maximum-nesting-depth-of-the-parentheses/) | easy | 2022-09-16 13:14 | 
