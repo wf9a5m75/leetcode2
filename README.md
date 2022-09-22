@@ -1,16 +1,22 @@
 # LeetCode 2nd turn
-### last update: Tue Sep 20 17:13:35 PDT 2022
+### last update: Wed Sep 21 17:12:59 PDT 2022
 ## summary
 | level | counts |
 |-|-|
-| easy |137 |
-| medium |130 |
+| easy |140 |
+| medium |132 |
 | hard |8 |
-| total | 275 |
+| total | 280 |
 
 ## questions
 | problem | level| last modified |
 |-|-|-|
+| [ 844. Backspace String Compare (LeetCode 75 - Level I) (Algorithm II) ](./844.backspace-string-compare/) | easy | 2022-09-21 15:42 | 
+| [ 1995. Count Special Quadruplets ](./1995.count-special-quadruplets/) | easy | 2022-09-21 12:55 | 
+| [ 985. Sum of Even Numbers After Queries ](./985.sum-of-even-numbers-after-queries/) | medium | 2022-09-20 18:43 | 
+| [ 605. Can Place Flowers ](./605.can-place-flowers/) | easy | 2022-09-20 11:45 | 
+| [ 495. Teemo Attacking ](./495.teemo-attacking/) | easy | 2022-09-20 10:47 | 
+| [ 57. Insert Interval ](./57.insert-interval/) | medium | 2022-09-20 10:16 | 
 | [ 718. Maximum Length of Repeated Subarray ](./718.maximum-length-of-repeated-subarray/) | medium | 2022-09-19 23:04 | 
 | [ 16. 3Sum Closest ](./16.3sum-closest/) | medium | 2022-09-19 14:51 | 
 | [ 2367. Number of Arithmetic Triplets ](./2367.number-of-arithmetic-triplets/) | easy | 2022-09-19 11:30 | 
@@ -66,7 +72,6 @@
 | [ 692. Top K Frequent Words (LeetCode 75 - Level I) ](./692.top-k-frequent-words/) | medium | 2022-08-21 19:38 | 
 | [ 1046. Last Stone Weight (LeetCode 75 - Level I) ](./1046.last-stone-weight/) | easy | 2022-08-21 15:30 | 
 | [ 394. Decode String (LeetCode 75 - Level I) ](./394.decode-string/) | medium | 2022-08-21 14:57 | 
-| [ 844. Backspace String Compare (LeetCode 75 - Level I) ](./844.backspace-string-compare/) | easy | 2022-08-20 22:10 | 
 | [ 299. Bulls and Cows (LeetCode 75 - Level I) ](./299.bulls-and-cows/) | medium | 2022-08-20 15:13 | 
 | [ 659. Split Array into Consecutive Subsequences ](./659.split-array-into-consecutive-subsequences/) | medium | 2022-08-19 04:36 | 
 | [ 1338. Reduce Array Size to The Half ](./1338.reduce-array-size-to-the-half/) | medium | 2022-08-17 18:05 | 
