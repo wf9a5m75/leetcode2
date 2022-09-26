@@ -1,4 +1,4 @@
-# 55. Jump Game (Dynamic Programming I)
+# 55. Jump Game (Dynamic Programming I) (Algorithm II)
 ## level: Medium
 
 https://leetcode.com/problems/jump-game/
