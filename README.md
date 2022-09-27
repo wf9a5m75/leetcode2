@@ -1,16 +1,22 @@
 # LeetCode 2nd turn
-### last update: Sun Sep 25 17:13:45 PDT 2022
+### last update: Mon Sep 26 17:17:59 PDT 2022
 ## summary
 | level | counts |
 |-|-|
 | easy |141 |
-| medium |142 |
-| hard |8 |
-| total | 291 |
+| medium |146 |
+| hard |9 |
+| total | 296 |
 
 ## questions
 | problem | level| last modified |
 |-|-|-|
+| [ 1345. Jump Game IV ](./1345.jump-game-iv/) | hard | 2022-09-26 14:42 | 
+| [ 1306. Jump Game III ](./1306.jump-game-iii/) | medium | 2022-09-26 14:04 | 
+| [ 45. Jump Game II (Algorithm II) ](./45.jump-game-ii/) | medium | 2022-09-26 13:48 | 
+| [ 55. Jump Game (Dynamic Programming I) (Algorithm II) ](./55.jump-game/) | medium | 2022-09-26 11:41 | 
+| [ 990. Satisfiability of Equality Equations ](./990.satisfiability-of-equality-equations/) | medium | 2022-09-25 23:05 | 
+| [ 17. Letter Combinations of a Phone Number (Algorithm II) ](./17.letter-combinations-of-a-phone-number/) | medium | 2022-09-25 12:08 | 
 | [ 117. Populating Next Right Pointers in Each Node II (Algorithm II) ](./117.populating-next-right-pointers-in-each-node-ii/) | medium | 2022-09-24 21:57 | 
 | [ 1670. Design Front Middle Back Queue ](./1670.design-front-middle-back-queue/) | medium | 2022-09-24 21:33 | 
 | [ 641. Design Circular Deque ](./641.design-circular-deque/) | medium | 2022-09-24 18:04 | 
@@ -149,7 +155,6 @@
 | [ 429. N-ary Tree Level Order Traversal (Programming Skills II) ](./429.n-ary-tree-level-order-traversal/) | medium | 2022-07-23 14:19 | 
 | [ 1630. Arithmetic Subarrays (Programming Skills II) ](./1630.arithmetic-subarrays/) | medium | 2022-07-23 14:12 | 
 | [ 160. Rotting Oranges (Data Structure II) ](./160.intersection-of-two-linked-lists/) | easy | 2022-07-21 06:48 | 
-| [ 55. Jump Game (Dynamic Programming I) ](./55.jump-game/) | medium | 2022-07-18 16:14 | 
 | [ 5. Longest Palindromic Substring (Data Structure II) ](./5.longest-palindromic-substring/) | medium | 2022-07-18 11:46 | 
 | [ 1328. Break a Palindrome ](./1328.break-a-palindrome/) | medium | 2022-07-18 09:37 | 
 | [ 238. Product of Array Except Self (Data Structure II) ](./238.product-of-array-except-self/) | medium | 2022-07-17 19:47 | 
