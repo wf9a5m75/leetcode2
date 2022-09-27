@@ -1,38 +1,16 @@
-class ScoreIdx:
-    def __init__(self, score: int, idx: int):
-        self.score = score
-        self.index = idx
-
-    def __repr__(self) -> str:
-        return f"\{score:{self.score}, index:{self.index} \}"
-
 class Solution:
-    def maxResult(self, nums: List[int], k: int) -> int:
+    def uniquePathsWithObstacles(self, obstacleGrid: List[List[int]]) -> int:
+        M, N = len(obstacleGrid), len(obstacleGrid[0])
 
-        size = len(nums)
-        dp = [0] * size
-        dp[0] = nums[0]
+        if (obstacleGrid[M - 1][N - 1] == 1):
+            return 0
 
-        # The q keeps the largest score index at the most left
-        q = [ScoreIdx(nums[0], 0)]
-
-        for i in range(1, size):
-
-            # Since the q[0] keeps the largest score always,
-            # we can calculate the max score at i
-            dp[i] = nums[i] + q[0].score
-
-            # Remove lower scores than dp[i]
-            while q and q[-1].score < dp[i]:
-                q.pop()
-
-            # Push the largetst score
-            q.append(ScoreIdx(dp[i], i))
-
-            # If q[0].index == i - k,
-            # we can't use it anymore.
-            if i - k == q[0].index:
-                q.pop(0)
-
-        return dp[size - 1]
-            
+        dp = [[0] * (N + 1) for _ in range(M + 1)]
+        dp[0][0] = 1
+        for y in range(M):
+            for x in range(N):
+                if (obstacleGrid[y][x] == 1):
+                    continue
+                dp[y + 1][x] += dp[y][x]
+                dp[y][x + 1] += dp[y][x]
+        return dp[M - 1][N - 1]
