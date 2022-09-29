@@ -1,16 +1,17 @@
 # LeetCode 2nd turn
-### last update: Tue Sep 27 17:18:39 PDT 2022
+### last update: Wed Sep 28 17:18:00 PDT 2022
 ## summary
 | level | counts |
 |-|-|
 | easy |142 |
-| medium |152 |
+| medium |153 |
 | hard |9 |
-| total | 303 |
+| total | 304 |
 
 ## questions
 | problem | level| last modified |
 |-|-|-|
+| [ 79. Word Search (Algorithm II) ](./79.word-search/) | medium | 2022-09-28 11:27 | 
 | [ 797. All Paths From Source to Target (Algorithm II) ](./797.all-paths-from-source-to-target/) | medium | 2022-09-27 16:50 | 
 | [ 1091. Shortest Path in Binary Matrix (Algorithm II) ](./1091.shortest-path-in-binary-matrix/) | medium | 2022-09-27 16:22 | 
 | [ 657. Robot Return to Origin ](./657.robot-return-to-origin/) | easy | 2022-09-27 14:51 | 
