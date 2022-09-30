@@ -1,16 +1,22 @@
 # LeetCode 2nd turn
-### last update: Wed Sep 28 17:18:00 PDT 2022
+### last update: Thu Sep 29 17:19:17 PDT 2022
 ## summary
 | level | counts |
 |-|-|
-| easy |142 |
-| medium |153 |
-| hard |9 |
-| total | 304 |
+| easy |145 |
+| medium |155 |
+| hard |10 |
+| total | 310 |
 
 ## questions
 | problem | level| last modified |
 |-|-|-|
+| [ 1209. Remove All Adjacent Duplicates in String II ](./1209.remove-all-adjacent-duplicates-in-string-ii/) | medium | 2022-09-29 15:26 | 
+| [ 1047. Remove All Adjacent Duplicates In String ](./1047.remove-all-adjacent-duplicates-in-string/) | easy | 2022-09-29 14:56 | 
+| [ 628. Maximum Product of Three Numbers ](./628.maximum-product-of-three-numbers/) | easy | 2022-09-29 12:11 | 
+| [ 152. Maximum Product Subarray ](./152.maximum-product-subarray/) | medium | 2022-09-29 11:55 | 
+| [ 572. Subtree of Another Tree (Algorithm II) ](./572.subtree-of-another-tree/) | easy | 2022-09-28 23:19 | 
+| [ 212. Word Search II (Algorithm II) ](./212.word-search-ii/) | hard | 2022-09-28 19:10 | 
 | [ 79. Word Search (Algorithm II) ](./79.word-search/) | medium | 2022-09-28 11:27 | 
 | [ 797. All Paths From Source to Target (Algorithm II) ](./797.all-paths-from-source-to-target/) | medium | 2022-09-27 16:50 | 
 | [ 1091. Shortest Path in Binary Matrix (Algorithm II) ](./1091.shortest-path-in-binary-matrix/) | medium | 2022-09-27 16:22 | 
