@@ -1,16 +1,17 @@
 # LeetCode 2nd turn
-### last update: Thu Sep 29 17:19:17 PDT 2022
+### last update: Fri Sep 30 17:17:39 PDT 2022
 ## summary
 | level | counts |
 |-|-|
 | easy |145 |
-| medium |155 |
+| medium |156 |
 | hard |10 |
-| total | 310 |
+| total | 311 |
 
 ## questions
 | problem | level| last modified |
 |-|-|-|
+| [ 2384. Largest Palindromic Number ](./2384.largest-palindromic-number/) | medium | 2022-09-29 23:23 | 
 | [ 1209. Remove All Adjacent Duplicates in String II ](./1209.remove-all-adjacent-duplicates-in-string-ii/) | medium | 2022-09-29 15:26 | 
 | [ 1047. Remove All Adjacent Duplicates In String ](./1047.remove-all-adjacent-duplicates-in-string/) | easy | 2022-09-29 14:56 | 
 | [ 628. Maximum Product of Three Numbers ](./628.maximum-product-of-three-numbers/) | easy | 2022-09-29 12:11 | 
