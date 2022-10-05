@@ -1,16 +1,17 @@
 # LeetCode 2nd turn
-### last update: Sun Oct  2 17:14:56 PDT 2022
+### last update: Tue Oct  4 17:16:27 PDT 2022
 ## summary
 | level | counts |
 |-|-|
 | easy |145 |
-| medium |158 |
+| medium |159 |
 | hard |10 |
-| total | 313 |
+| total | 314 |
 
 ## questions
 | problem | level| last modified |
 |-|-|-|
+| [ 1578. Minimum Time to Make Rope Colorful ](./1578.minimum-time-to-make-rope-colorful/) | medium | 2022-10-03 17:57 | 
 | [ 1155. Number of Dice Rolls With Target Sum ](./1155.number-of-dice-rolls-with-target-sum/) | medium | 2022-10-01 22:13 | 
 | [ 91. Decode Ways (Algorithm II) ](./91.decode-ways/) | medium | 2022-10-01 10:17 | 
 | [ 2384. Largest Palindromic Number ](./2384.largest-palindromic-number/) | medium | 2022-09-29 23:23 | 
