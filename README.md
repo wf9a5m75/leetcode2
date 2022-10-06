@@ -1,16 +1,21 @@
 # LeetCode 2nd turn
-### last update: Tue Oct  4 17:16:27 PDT 2022
+### last update: Wed Oct  5 17:15:52 PDT 2022
 ## summary
 | level | counts |
 |-|-|
 | easy |145 |
-| medium |159 |
+| medium |162 |
 | hard |10 |
-| total | 314 |
+| total | 317 |
 
 ## questions
 | problem | level| last modified |
 |-|-|-|
+| [ 623. Add One Row to Tree ](./623.add-one-row-to-tree/) | medium | 2022-10-05 15:50 | 
+| [ 1143. Longest Common Subsequence (Algorithm II) ](./1143.longest-common-subsequence/) | medium | 2022-10-05 14:24 | 
+| [ 673. Number of Longest Increasing Subsequence (Algorithm II) ](./673.number-of-longest-increasing-subsequence/) | medium | 2022-10-05 11:58 | 
+| [ 300. Longest Increasing Subsequence (Algorithm II) ](./300.longest-increasing-subsequence/) | medium | 2022-10-05 11:57 | 
+| [ 213. House Robber II (Dynamic Programming I) (Algorithm II) ](./213.house-robber-ii/) | medium | 2022-10-04 11:29 | 
 | [ 1578. Minimum Time to Make Rope Colorful ](./1578.minimum-time-to-make-rope-colorful/) | medium | 2022-10-03 17:57 | 
 | [ 1155. Number of Dice Rolls With Target Sum ](./1155.number-of-dice-rolls-with-target-sum/) | medium | 2022-10-01 22:13 | 
 | [ 91. Decode Ways (Algorithm II) ](./91.decode-ways/) | medium | 2022-10-01 10:17 | 
@@ -126,7 +131,6 @@
 | [ 139. Word Break ](./139.word-break/) | medium | 2022-08-09 11:25 | 
 | [ 823. Binary Trees With Factors ](./823.binary-trees-with-factors/) | medium | 2022-08-08 22:43 | 
 | [ 1480. Running Sum of 1d Array (LeetCode 75 - Level I) ](./1480.running-sum-of-1d-array/) | easy | 2022-08-08 13:18 | 
-| [ 1137. N-th Tribonacci Number ](./300.longest-increasing-subsequence/) | medium | 2022-08-08 12:16 | 
 | [ 1220. Count Vowels Permutation ](./1220.count-vowels-permutation/) | hard | 2022-08-07 19:02 | 
 | [ 377. Combination Sum IV ](./377.combination-sum-iv/) | medium | 2022-08-04 19:42 | 
 | [ 82. Remove Duplicates from Sorted List II (Data Structure II) (Algorithm II) ](./82.remove-duplicates-from-sorted-list-ii/) | medium | 2022-08-04 12:54 | 
@@ -199,7 +203,6 @@
 | [ 48. Rotate Image (Programming Skills II) ](./48.rotate-image/) | medium | 2022-07-12 11:00 | 
 | [ 58. Length of Last Word (Programming Skills II) ](./58.length-of-last-word/) | easy | 2022-07-12 10:01 | 
 | [ 1667. Fix Names in a Table (SQL I) ](./1667.fix-names-in-a-table/) | easy | 2022-07-11 22:22 | 
-| [ 213. House Robber II (Dynamic Programming I) ](./213.house-robber-ii/) | medium | 2022-07-11 22:08 | 
 | [ 198. House Robber (Dynamic Programming I) ](./198.house-robber/) | medium | 2022-07-11 15:22 | 
 | [ 240. Search a 2D Matrix II (Data Structure II) ](./240.search-a-2d-matrix-ii/) | medium | 2022-07-11 12:12 | 
 | [ 56. Merge Intervals (Data Structure II) ](./56.merge-intervals/) | medium | 2022-07-11 07:31 | 
