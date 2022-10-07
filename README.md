@@ -1,5 +1,5 @@
 # LeetCode 2nd turn
-### last update: Wed Oct  5 17:15:52 PDT 2022
+### last update: Thu Oct  6 17:18:02 PDT 2022
 ## summary
 | level | counts |
 |-|-|
@@ -11,6 +11,7 @@
 ## questions
 | problem | level| last modified |
 |-|-|-|
+| [ 202. Happy Number (Algorithm II) ](./202.happy-number/) | easy | 2022-10-05 19:22 | 
 | [ 623. Add One Row to Tree ](./623.add-one-row-to-tree/) | medium | 2022-10-05 15:50 | 
 | [ 1143. Longest Common Subsequence (Algorithm II) ](./1143.longest-common-subsequence/) | medium | 2022-10-05 14:24 | 
 | [ 673. Number of Longest Increasing Subsequence (Algorithm II) ](./673.number-of-longest-increasing-subsequence/) | medium | 2022-10-05 11:58 | 
@@ -295,7 +296,6 @@
 | [ 350. Intersection of Two Arrays II (Data Structure I) ](./350.intersection-of-two-arrays-ii/) | easy | 2022-06-22 15:49 | 
 | [ 1. Two Sum (Data Structure I) ](./1.two-sum/) | easy | 2022-06-22 12:30 | 
 | [ 53. Maximum Subarray (Data Structure I) ](./53.maximum-subarray/) | easy | 2022-06-22 12:29 | 
-| [ 202. Happy Number ](./202.happy-number/) | easy | 2022-06-22 11:57 | 
 | [ 219. Contains Duplicate II ](./219.contains-duplicate-ii/) | easy | 2022-06-22 11:39 | 
 | [ 217. Contains Duplicate (Data Structure I) ](./217.contains-duplicate/) | easy | 2022-06-22 11:24 | 
 | [ 95. Unique Binary Search Trees II (Recursion I) ](./95.unique-binary-search-trees-ii/) | medium | 2022-06-22 11:13 | 
