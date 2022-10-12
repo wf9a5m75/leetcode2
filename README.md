@@ -1,16 +1,18 @@
 # LeetCode 2nd turn
-### last update: Mon Oct 10 17:15:49 PDT 2022
+### last update: Tue Oct 11 17:17:11 PDT 2022
 ## summary
 | level | counts |
 |-|-|
 | easy |146 |
-| medium |162 |
+| medium |164 |
 | hard |10 |
-| total | 318 |
+| total | 320 |
 
 ## questions
 | problem | level| last modified |
 |-|-|-|
+| [ 343. Integer Break (Algorithm II) ](./343.integer-break/) | medium | 2022-10-11 15:19 | 
+| [ 201. Bitwise AND of Numbers Range (Algorithm II) ](./201.bitwise-and-of-numbers-range/) | medium | 2022-10-11 13:03 | 
 | [ 455. Assign Cookies ](./455.assign-cookies/) | easy | 2022-10-10 13:18 | 
 | [ 202. Happy Number (Algorithm II) ](./202.happy-number/) | easy | 2022-10-05 19:22 | 
 | [ 623. Add One Row to Tree ](./623.add-one-row-to-tree/) | medium | 2022-10-05 15:50 | 
