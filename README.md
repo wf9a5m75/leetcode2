@@ -1,16 +1,17 @@
 # LeetCode 2nd turn
-### last update: Tue Oct 11 17:17:11 PDT 2022
+### last update: Wed Oct 12 17:14:45 PDT 2022
 ## summary
 | level | counts |
 |-|-|
 | easy |146 |
-| medium |164 |
+| medium |165 |
 | hard |10 |
-| total | 320 |
+| total | 321 |
 
 ## questions
 | problem | level| last modified |
 |-|-|-|
+| [ 413. Arithmetic Slices (Algorithm II) ](./413.arithmetic-slices/) | medium | 2022-10-12 10:59 | 
 | [ 343. Integer Break (Algorithm II) ](./343.integer-break/) | medium | 2022-10-11 15:19 | 
 | [ 201. Bitwise AND of Numbers Range (Algorithm II) ](./201.bitwise-and-of-numbers-range/) | medium | 2022-10-11 13:03 | 
 | [ 455. Assign Cookies ](./455.assign-cookies/) | easy | 2022-10-10 13:18 | 
