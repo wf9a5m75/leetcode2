@@ -1,16 +1,17 @@
 # LeetCode 2nd turn
-### last update: Wed Oct 12 17:14:45 PDT 2022
+### last update: Fri Oct 14 17:14:05 PDT 2022
 ## summary
 | level | counts |
 |-|-|
 | easy |146 |
-| medium |165 |
+| medium |166 |
 | hard |10 |
-| total | 321 |
+| total | 322 |
 
 ## questions
 | problem | level| last modified |
 |-|-|-|
+| [ 2095. Delete the Middle Node of a Linked List ](./2095.delete-the-middle-node-of-a-linked-list/) | medium | 2022-10-13 18:18 | 
 | [ 413. Arithmetic Slices (Algorithm II) ](./413.arithmetic-slices/) | medium | 2022-10-12 10:59 | 
 | [ 343. Integer Break (Algorithm II) ](./343.integer-break/) | medium | 2022-10-11 15:19 | 
 | [ 201. Bitwise AND of Numbers Range (Algorithm II) ](./201.bitwise-and-of-numbers-range/) | medium | 2022-10-11 13:03 | 
