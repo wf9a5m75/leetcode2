@@ -1,16 +1,18 @@
 # LeetCode 2nd turn
-### last update: Fri Oct 14 17:14:05 PDT 2022
+### last update: Tue Oct 18 17:15:24 PDT 2022
 ## summary
 | level | counts |
 |-|-|
 | easy |146 |
-| medium |166 |
+| medium |168 |
 | hard |10 |
-| total | 322 |
+| total | 324 |
 
 ## questions
 | problem | level| last modified |
 |-|-|-|
+| [ 443. String Compression ](./443.string-compression/) | medium | 2022-10-17 20:25 | 
+| [ 38. Count and Say ](./38.count-and-say/) | medium | 2022-10-17 19:46 | 
 | [ 2095. Delete the Middle Node of a Linked List ](./2095.delete-the-middle-node-of-a-linked-list/) | medium | 2022-10-13 18:18 | 
 | [ 413. Arithmetic Slices (Algorithm II) ](./413.arithmetic-slices/) | medium | 2022-10-12 10:59 | 
 | [ 343. Integer Break (Algorithm II) ](./343.integer-break/) | medium | 2022-10-11 15:19 | 
