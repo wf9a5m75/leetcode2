@@ -1,16 +1,17 @@
 # LeetCode 2nd turn
-### last update: Tue Oct 18 17:15:24 PDT 2022
+### last update: Wed Oct 19 17:16:19 PDT 2022
 ## summary
 | level | counts |
 |-|-|
 | easy |146 |
-| medium |168 |
+| medium |169 |
 | hard |10 |
-| total | 324 |
+| total | 325 |
 
 ## questions
 | problem | level| last modified |
 |-|-|-|
+| [ 322. Coin Change (Algorithm II) ](./322.coin-change/) | medium | 2022-10-19 15:38 | 
 | [ 443. String Compression ](./443.string-compression/) | medium | 2022-10-17 20:25 | 
 | [ 38. Count and Say ](./38.count-and-say/) | medium | 2022-10-17 19:46 | 
 | [ 2095. Delete the Middle Node of a Linked List ](./2095.delete-the-middle-node-of-a-linked-list/) | medium | 2022-10-13 18:18 | 
