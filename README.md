@@ -1,16 +1,17 @@
 # LeetCode 2nd turn
-### last update: Tue Oct 25 17:11:22 PDT 2022
+### last update: Wed Oct 26 17:11:55 PDT 2022
 ## summary
 | level | counts |
 |-|-|
 | easy |149 |
-| medium |171 |
+| medium |172 |
 | hard |10 |
-| total | 330 |
+| total | 331 |
 
 ## questions
 | problem | level| last modified |
 |-|-|-|
+| [ 523. Continuous Subarray Sum ](./523.continuous-subarray-sum/) | medium | 2022-10-26 11:21 | 
 | [ 1662. Check If Two String Arrays are Equivalent ](./1662.check-if-two-string-arrays-are-equivalent/) | easy | 2022-10-25 16:05 | 
 | [ 1108. Defanging an IP Address ](./1108.defanging-an-ip-address/) | easy | 2022-10-24 13:58 | 
 | [ 1239. Maximum Length of a Concatenated String with Unique Characters ](./1239.maximum-length-of-a-concatenated-string-with-unique-characters/) | medium | 2022-10-24 13:53 | 
