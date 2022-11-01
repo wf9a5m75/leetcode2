@@ -1,16 +1,19 @@
 # LeetCode 2nd turn
-### last update: Wed Oct 26 17:11:55 PDT 2022
+### last update: Mon Oct 31 17:13:24 PDT 2022
 ## summary
 | level | counts |
 |-|-|
-| easy |149 |
-| medium |172 |
-| hard |10 |
-| total | 331 |
+| easy |150 |
+| medium |173 |
+| hard |11 |
+| total | 334 |
 
 ## questions
 | problem | level| last modified |
 |-|-|-|
+| [ 41. First Missing Positive ](./41.first-missing-positive/) | hard | 2022-10-31 15:50 | 
+| [ 268. Missing Number (Top Interviews 100) ](./268.missing-number/) | easy | 2022-10-31 10:44 | 
+| [ 73. Set Matrix Zeroes (Top Interview Questions) ](./73.set-matrix-zeroes/) | medium | 2022-10-30 14:21 | 
 | [ 523. Continuous Subarray Sum ](./523.continuous-subarray-sum/) | medium | 2022-10-26 11:21 | 
 | [ 1662. Check If Two String Arrays are Equivalent ](./1662.check-if-two-string-arrays-are-equivalent/) | easy | 2022-10-25 16:05 | 
 | [ 1108. Defanging an IP Address ](./1108.defanging-an-ip-address/) | easy | 2022-10-24 13:58 | 
