@@ -8,6 +8,9 @@
 | hard |11 |
 | total | 334 |
 
+
+Move on to the 3rd try at https://github.com/wf9a5m75/leetcode3
+
 ## questions
 | problem | level| last modified |
 |-|-|-|
